@@ -1,5 +1,5 @@
 [project]
-name = "example_package"
+name = "salstat"
 version = "0.0.1"
 authors = [
   { name="Pavel Novák", email="pavelnovak@pavelnovak.cz" },
@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [project.scripts]
-expac = "example_package.cli:main"
+peruteksalstat = "example_package.cli:main"
 
 
 [project.urls]

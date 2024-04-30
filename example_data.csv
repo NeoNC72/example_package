@@ -1,0 +1,500 @@
+id;pohlaví;jméno;přijmení;adresa;město;stát;narození;věk;krevní skupina;váha;výška;rok;odvětví;průměrný plat
+925362;muž;Luděk;Jedlička;Klímova 1399;Cistá u Rakovníka;Czech Republic;1991-05-24;25;A+;70.0;177;2016;Zpracovatelský průmysl;16511.021184039695
+116561;žena;Adéla;Franzová;Na Kopci 1131;Klatovy 1;Czech Republic;1972-05-26;42;B+;77.3;175;2014;Vzdělávání;17618.935287679313
+376420;muž;Bruno;Kolář;Jabloňová 454;Malíkovice;Czech Republic;1939-06-13;80;O+;54.0;155;2019;Zpracovatelský průmysl;83373.34829504565
+464218;žena;Zdeňka;Krausová;Příkopy 1712;Pacov;Czech Republic;1990-07-13;26;O+;51.9;166;2016;Doprava a skladování;30106.792485230955
+688032;žena;Martina;Poláčková;Mlýnská 472;Kolovec;Czech Republic;1966-01-14;48;B+;64.9;169;2013;Peněžnictví a pojišťovnictví;14206.077988871415
+741268;muž;Richard;Škrabal;Mlýnská 169;Mesto Touškov;Czech Republic;1979-06-02;33;O+;101.1;187;2012;Obchod, opravy motorových vozidel;26698.780496348078
+27431;muž;Ihor;Pospíšil;Marie Kudeříkové 1262;Moravany u Brna;Czech Republic;1981-06-10;38;B+;55.7;168;2019;Zpracovatelský průmysl;41495.864736470736
+856370;žena;Marta;Šimková;Suhrady 1450;Volenice;Czech Republic;1959-09-25;52;A+;80.7;187;2011;Obchod, opravy motorových vozidel;20565.38557419506
+681208;muž;Jiří;Jeřábek;Hamerská 897;Olešnice na Morave;Czech Republic;1983-08-09;31;O+;105.0;176;2014;Zpracovatelský průmysl;43000.23615455219
+417134;muž;Milan;Vála;Dvořákova 828;Orlová 1;Czech Republic;1945-12-08;66;AB+;103.0;168;2011;Zpracovatelský průmysl;13737.629299297021
+949216;žena;Jana;Bartoňová;K Lukárně 1231;Cáslav;Czech Republic;1939-08-09;71;A+;78.2;165;2010;Obchod, opravy motorových vozidel;13703.884922313733
+697743;muž;Pavel;Kopecký;Na Výsluní 1346;Pernarec;Czech Republic;1939-07-19;80;A+;97.9;178;2019;Stavebnictví;29781.185095981284
+422186;muž;Jan;Vodička;Na Výsluní 367;Líbeznice;Czech Republic;1960-01-26;54;O+;73.3;162;2013;Těžba a dobývání;28262.761526711092
+351266;muž;Josef;Žák;Jana Šťastného 246;Staré Hradište u Pardubic;Czech Republic;1978-11-09;39;O+;65.5;166;2017;Doprava a skladování;43207.285471508905
+824786;žena;Aneta;Škrabalová;Mírová 454;Rožmberk nad Vltavou;Czech Republic;1973-02-03;44;A+;89.3;178;2016;Vzdělávání;28950.78855115693
+137715;žena;Petra;Kořínková;U Křížku 721;Luže;Czech Republic;2000-07-09;13;B+;59.9;189;2013;Obchod, opravy motorových vozidel;28288.193481079943
+55507;žena;Lucie;Blažková;Alšova 1131;Slabce;Czech Republic;1996-03-17;22;A+;63.4;167;2018;Peněžnictví a pojišťovnictví;34512.545806604314
+900199;žena;Jarmila;Jarošová;Stožická 1784;Drahany;Czech Republic;1962-07-26;48;B+;98.7;184;2010;Obchod, opravy motorových vozidel;24461.14993460291
+167818;muž;Roman;Tomek;Dobrovského 836;Ostravice;Czech Republic;1965-06-30;48;A+;98.1;160;2013;Zpracovatelský průmysl;36935.471125617
+183477;muž;Antonín;Mareš;Jeronýmova 1380;Herálec u Havlíckova Brodu;Czech Republic;1954-09-18;64;O+;69.6;154;2018;Stavebnictví;15257.3990273844
+840894;žena;Martina;Mikešová;Palackého 793;Tvrdonice;Czech Republic;1996-07-31;21;B+;86.3;177;2017;Zásobování vodou, činnosti související s odpady;29310.84410679306
+196037;muž;Lukáš;Kubišta;Partyzánská 1584;Choustníkovo Hradište;Czech Republic;1968-08-20;52;A+;52.9;182;2020;Doprava a skladování;40569.32725483723
+962748;muž;Ladislav;Černý;Fügnerova 1789;Herálec u Havlíckova Brodu;Czech Republic;2000-07-07;13;O+;96.1;185;2013;Zpracovatelský průmysl;36643.83113419226
+911513;žena;Svatava;Růžičková;Marie Kudeříkové 1854;Abertamy;Czech Republic;1945-05-16;70;A+;83.9;168;2015;Výroba a rozvod elektřiny, plynu, tepla;70864.70651330664
+745532;žena;Vladimíra;Fučíková;Větrník 327;Chýnov;Czech Republic;1975-08-23;41;O+;60.4;187;2016;Zpracovatelský průmysl;33055.34159947193
+470416;muž;Jaroslav;Janko;Velký průhon 1865;Vysoký Újezd u Berouna;Czech Republic;1997-12-06;15;O+;52.3;185;2012;Obchod, opravy motorových vozidel;13613.702040678556
+493134;muž;Václav;Pokorný;Jižní 409;Sázava;Czech Republic;1963-09-10;50;A+;64.6;182;2013;Zpracovatelský průmysl;29224.962617927948
+523003;muž;Pavel;Švec;Komenského 483;Valašské Klobouky;Czech Republic;1945-10-24;72;B+;76.3;165;2017;Veřejná správa a obrana, povinné sociální zabezpečení;43910.57968770032
+194204;žena;Danuše;Kocmánková;Absolonova 1537;Zlobice;Czech Republic;1992-03-13;28;A-;70.8;173;2020;Zpracovatelský průmysl;47232.961354067054
+521358;žena;Anna;Novotná;Příkopy 1528;Kardašova Recice;Czech Republic;1965-05-25;55;O+;96.3;169;2020;Doprava a skladování;53494.03778620917
+935936;muž;Petr;Janík;Štefanikova 632;Dolní Loucky;Czech Republic;1986-01-28;31;O+;102.4;162;2016;Zemědělství, lesnictví a rybářství;29588.269613501125
+65549;žena;Zuzana;Jetmarová;Střední 1398;Mnichovice;Czech Republic;1956-04-26;54;O+;99.1;186;2010;Veřejná správa a obrana, povinné sociální zabezpečení;24771.570605792884
+401887;muž;David;Kmoch;Bártova 1824;Hrušky;Czech Republic;1944-11-21;73;AB+;66.6;175;2017;Stavebnictví;38320.605032257234
+696556;žena;Natálie;Radová;Družstevní 1298;Starec;Czech Republic;1978-04-17;34;O+;67.7;165;2012;Zdravotní a sociální péče;50599.03559983624
+818927;muž;Vlastimil;Kříž;Lidická 1457;Preštice;Czech Republic;1952-12-30;62;B+;57.7;156;2014;Veřejná správa a obrana, povinné sociální zabezpečení;33027.577078216906
+854328;muž;Bronislav;Davídek;Žerotínova 322;Kolín 2;Czech Republic;1998-10-20;16;O+;81.2;165;2014;Zpracovatelský průmysl;56110.78069557033
+417321;žena;Monika;Jiskrová;Jiráskova 1831;Kounov u Rakovníka;Czech Republic;1978-12-07;36;O-;69.2;170;2014;Kulturní, zábavní a rekreační činnosti;29228.779400518826
+106802;muž;Lubomír;Beňo;Rvačov 1059;Dívcice;Czech Republic;1990-12-20;29;B+;79.2;168;2019;Zásobování vodou, činnosti související s odpady;50845.972698048274
+67605;žena;Daniela;Kolářová;Bartákova 1997;Rícany u Prahy;Czech Republic;1946-09-28;73;O+;56.9;187;2019;Zpracovatelský průmysl;15919.369875899823
+651620;muž;Jaroslav;Dufek;Třebčínská 648;Šatov;Czech Republic;1947-06-15;70;O+;69.5;167;2017;Veřejná správa a obrana, povinné sociální zabezpečení;42801.45008125404
+155399;žena;Simona;Peštová;Nábřežní 702;Dobrany;Czech Republic;1942-01-12;78;O+;84.5;166;2019;Zpracovatelský průmysl;39480.0120261894
+825836;muž;Jaroslav;Klásek;Bezručova 951;Praha 914;Czech Republic;1971-05-20;41;A+;86.4;153;2012;Obchod, opravy motorových vozidel;50556.46846914857
+804567;muž;Rudolf;Bezděk;Družstevní práce 1903;Proboštov u Teplic;Czech Republic;1937-04-26;73;A+;72.7;164;2010;Veřejná správa a obrana, povinné sociální zabezpečení;25187.862638019604
+129604;žena;Svitlana;Zaoralová;Zahradní 1136;Solnice;Czech Republic;2002-12-24;17;A+;66.5;179;2019;Obchod, opravy motorových vozidel;52680.80921900694
+188787;žena;Monika;Mošnová;Tyršova 445;Prelouc;Czech Republic;1954-08-01;64;B+;80.0;166;2018;Vzdělávání;20101.580795924492
+158690;žena;Květoslava;Jankovská;Generála Jaroše 1624;Nový Bydžov;Czech Republic;1982-05-21;29;A+;56.9;157;2011;Obchod, opravy motorových vozidel;19672.512615365267
+817196;žena;Sofie;Pálová;Nerudova 1016;Valašské Klobouky;Czech Republic;1936-08-21;83;A+;86.1;186;2019;Obchod, opravy motorových vozidel;16059.306278060527
+159305;muž;Oldřich;Kočka;Partyzánská 1773;Týn nad Vltavou 1;Czech Republic;1988-03-05;24;A+;72.5;169;2011;Informační a komunikační činnosti;63726.59067103973
+88772;muž;Tomáš;Pokorný;Budovatelská 1184;Brezuvky;Czech Republic;1969-10-04;51;O-;81.7;171;2020;Zpracovatelský průmysl;16200
+450211;muž;Jan;Kovář;Vrchlického 1387;Dobšice;Czech Republic;1953-04-24;60;AB+;91.4;171;2013;Veřejná správa a obrana, povinné sociální zabezpečení;65931.8254789727
+539710;muž;Jiří;Hofman;Jindřichova 402;Rousínov u Vyškova;Czech Republic;1991-01-31;20;O+;73.7;159;2010;Profesní, vědecké a technické činnosti;13644.248897914342
+333801;žena;Marie;Přibylová;Masarykova 813;Hradec Králové 3;Czech Republic;1938-01-10;81;O+;73.3;156;2018;Zemědělství, lesnictví a rybářství;25704.0613565927
+464783;žena;Lenka;Barešová;Čechova 576;Kralupy nad Vltavou 1;Czech Republic;1944-04-09;69;O-;92.9;163;2013;Zdravotní a sociální péče;35337.71837422036
+966311;žena;Hana;Bendová;Sokolská 1898;Buštehrad;Czech Republic;1988-07-13;23;B+;74.9;156;2011;Obchod, opravy motorových vozidel;14636.646913606628
+122625;žena;Hana;Hollerová;Bártova 642;Litomerice 1;Czech Republic;1974-04-12;38;O+;97.7;158;2012;Zdravotní a sociální péče;48936.45917085719
+680451;muž;Patrik;Rýdl;Větrná 1253;Stankov;Czech Republic;1972-02-28;49;O-;78.1;165;2020;Kulturní, zábavní a rekreační činnosti;16200
+357505;muž;Kamil;Rousek;Jiráskova 873;Milín;Czech Republic;1973-07-03;47;B+;82.3;182;2020;Profesní, vědecké a technické činnosti;35834.28222281865
+283804;muž;Samuel;Fischer;Stožická 484;Havlíckuv Brod 1;Czech Republic;1942-10-19;69;A+;111.9;169;2011;Zpracovatelský průmysl;13288.140378739168
+673449;muž;Bohumil;Veselý;Bezručova 1602;Brezno u Chomutova;Czech Republic;1954-05-22;56;B+;102.1;156;2010;Zpracovatelský průmysl;12834.712746497808
+723358;muž;Jiří;Harvánek;Lidická 751;Kunratice u Cvikova;Czech Republic;1989-11-21;23;A+;88.8;177;2012;Zdravotní a sociální péče;76616.76362448261
+121366;žena;Lenka;Pavlíková;Svépomoc 1180;Zbiroh;Czech Republic;1951-06-17;63;O+;83.5;181;2014;Zdravotní a sociální péče;34699.321499701306
+639984;muž;Josef;Bednařík;Fibichova 779;Slabce;Czech Republic;1955-12-11;63;B+;90.5;150;2018;Zpracovatelský průmysl;53727.709837737675
+296470;žena;Stanislava;Kurková;Bezručova 239;Malšice;Czech Republic;1995-04-23;22;O-;84.4;189;2017;Administrativní a podpůrné činnosti;27029.005755883187
+998035;muž;Jiří;Kozelský;Na Loučkách 348;Velešín;Czech Republic;1947-03-11;63;B+;60.2;181;2010;Informační a komunikační činnosti;14214.665475957441
+320185;muž;Tomáš;Řepa;Havlíčkova 1979;Turnov 1;Czech Republic;1950-03-17;65;B+;88.1;164;2015;Zpracovatelský průmysl;15694.003435303492
+464320;muž;Robert;Šulc;Jižní 924;Cíhošt;Czech Republic;1987-10-05;30;O+;82.0;179;2017;Kulturní, zábavní a rekreační činnosti;15375.343911455548
+479125;muž;Michal;Miko;Mládežnická 16;Lomnice nad Popelkou;Czech Republic;1965-02-05;48;O+;69.0;176;2012;Zpracovatelský průmysl;14091.511598891379
+72511;žena;Zdeňka;Lásková;Marie Kudeříkové 626;Vimperk;Czech Republic;1942-07-15;78;B-;65.9;166;2020;Administrativní a podpůrné činnosti;23830.837715259106
+977719;muž;Petr;Zezula;V Trávníkách 1007;Krupá;Czech Republic;1936-07-29;83;O+;73.9;159;2019;Profesní, vědecké a technické činnosti;15986.322098538394
+843746;muž;Jaroslav;Dunka;Školní 1529;Dušejov;Czech Republic;1944-02-06;71;O+;81.7;165;2014;Zpracovatelský průmysl;78456.99400350112
+32552;žena;Iva;Marková;Dělnická 289;Petrovice u Sedlcan;Czech Republic;1986-05-13;34;A+;69.1;168;2020;Zpracovatelský průmysl;16200
+381237;žena;Jana;Housková;Horní 466;Karlovy Vary 10;Czech Republic;1994-12-21;22;O+;67.2;180;2016;Zdravotní a sociální péče;17276.783521851525
+819197;muž;René;Surma;Družstevní práce 1788;Mohelnice nad Jizerou;Czech Republic;1938-04-29;81;AB-;71.0;173;2019;Doprava a skladování;17430.69074280639
+699977;žena;Amálie;Víšková;Lesní 1854;Mikulovice u Jeseníku 3;Czech Republic;1994-08-11;19;A+;81.7;167;2013;Stavebnictví;65575.19251285534
+690935;žena;Sandra;Králíčková;Žižkova 860;Sobechleby;Czech Republic;1946-01-23;74;O+;96.0;167;2019;Informační a komunikační činnosti;64341.39694971005
+730735;muž;Rudolf;Pavelka;Sídliště Za Chlumem 1389;Chroustovice;Czech Republic;1997-03-10;18;A+;92.0;155;2015;Zpracovatelský průmysl;15122.450484752473
+964152;žena;Božena;Sokolová;Hrubínova 344;Melnické Vtelno;Czech Republic;1991-10-06;20;O+;57.4;160;2011;Činnosti v oblasti nemovitostí;13954.399676210087
+804697;muž;Bohumil;Košťák;U medvídků 1895;Velká Bystrice;Czech Republic;1954-04-28;60;A+;89.6;173;2014;Doprava a skladování;23631.330202944886
+373118;muž;Michal;Klička;Jižní 1487;Štepánovice u Ceských Budejovic;Czech Republic;1946-02-18;65;A+;63.6;170;2010;Stavebnictví;43146.64199876149
+832312;žena;Milada;Stará;Českého odboje 897;Ceské Budejovice 1;Czech Republic;1985-04-20;31;O+;50.9;162;2016;Zemědělství, lesnictví a rybářství;18261.90954483557
+410031;žena;Květuška;Baudyšová;Příční 1502;Tucapy u Sobeslave;Czech Republic;1989-03-27;28;B+;92.4;158;2017;Obchod, opravy motorových vozidel;60136.59067036106
+875727;muž;Milan;Novotný;Dvořákova 90;Štetí;Czech Republic;1943-06-14;69;AB+;63.0;170;2012;Zpracovatelský průmysl;13897.435839682938
+379115;žena;Vera;Vrtalová;Sokolovská 1806;Neplachovice;Czech Republic;1961-12-31;57;B+;99.3;151;2018;Veřejná správa a obrana, povinné sociální zabezpečení;24052.251312030185
+458042;muž;Lukáš;Vykydal;U Sokolovny 1344;Strmilov;Czech Republic;1962-12-03;55;O+;53.4;175;2017;Zpracovatelský průmysl;48738.72585155689
+411611;muž;Libor;Soukup;Bavorovská 779;Frýdlant v Cechách;Czech Republic;1938-09-10;82;A+;63.7;166;2020;Stavebnictví;16200
+971405;žena;Věra;Drábková;Malá Strana 1686;Klobuky v Cechách;Czech Republic;1999-06-24;12;A+;71.6;171;2011;Zpracovatelský průmysl;13418.46172851686
+880952;muž;Milan;Vavřina;Velký průhon 1262;Sibrina;Czech Republic;1995-04-04;22;A+;95.0;183;2017;Administrativní a podpůrné činnosti;21836.389430599447
+306514;muž;Jiří;Musílek;Střední 258;Miletín;Czech Republic;1965-11-04;49;A+;107.5;162;2014;Administrativní a podpůrné činnosti;25067.417388283466
+194621;žena;Lenka;Hozáková;Alšova 801;Horní Radechová;Czech Republic;1944-08-29;68;O+;66.0;170;2012;Zdravotní a sociální péče;13700.283950128323
+818645;muž;Petr;Lysek;Partyzánská 1057;Nepomuk 1;Czech Republic;1997-01-09;16;O+;82.7;170;2012;Zpracovatelský průmysl;36523.82798322187
+20497;žena;Emma;Šimková;Hrubínova 349;Rovecné;Czech Republic;1951-04-19;61;A+;103.5;184;2012;Zpracovatelský průmysl;14317.522392074858
+75500;muž;Adam;﻿Veselý;Pivovarská 1409;Vejprnice;Czech Republic;1996-03-06;21;A+;74.7;171;2016;Zpracovatelský průmysl;15045.488520557925
+203621;muž;Ladislav;Svoboda;Bezručova 313;Praha 6;Czech Republic;1971-12-09;43;O+;111.9;156;2014;Stavebnictví;14527.049071400621
+217750;muž;Lukáš;Procházka;Nové Město 365;Vresina u Bílovce;Czech Republic;1985-08-23;25;A-;51.7;170;2010;Vzdělávání;39958.64055843425
+702451;muž;Stanislav;Veselý;Marie Kudeříkové 672;Blažejov;Czech Republic;2001-02-24;16;A+;87.1;170;2016;Veřejná správa a obrana, povinné sociální zabezpečení;33478.36492963542
+295973;žena;Květa;Maňasová;Bavorovská 1005;Nesovice;Czech Republic;1989-01-15;26;O+;94.0;184;2014;Doprava a skladování;20772.107405662027
+829795;žena;Jana;Hozáková;Na Kopečku 129;Benešov u Prahy;Czech Republic;1944-04-29;72;O+;71.5;175;2016;Zemědělství, lesnictví a rybářství;27046.651835870212
+953251;muž;Jiří;Fráňa;Bavorovská 1625;Lomnice u Tišnova;Czech Republic;1989-05-30;24;O+;91.8;187;2013;Zemědělství, lesnictví a rybářství;22572.03104319579
+888875;muž;František;Jabůrek;Hradní 1032;Želetice u Kyjova;Czech Republic;1937-08-19;82;O-;94.4;162;2019;Zásobování vodou, činnosti související s odpady;15698.194383896724
+352149;muž;Pavel;Koníček;Ehrmannova 1623;Velké Kunetice;Czech Republic;1985-04-22;26;A+;58.9;160;2011;Informační a komunikační činnosti;57148.29061455569
+679490;muž;Patrik;Koloušek;Prokopská 30;Habartice u Frýdlantu;Czech Republic;1976-03-25;43;AB+;72.0;175;2019;Doprava a skladování;55016.946341831084
+517633;žena;Lucie;Kopecká;Za Školou 1866;Turnov 1;Czech Republic;1975-06-25;44;A+;104.3;170;2019;Vzdělávání;43141.83081703001
+521024;muž;Vladimír;﻿Novotný;Jeronýmova 9;Bechlín;Czech Republic;1985-12-03;32;B+;111.8;185;2017;Zpracovatelský průmysl;31946.49179332062
+762836;muž;Vasyl;﻿Němec;Na Loučkách 989;Bystrice nad Pernštejnem;Czech Republic;1978-06-16;39;A+;52.4;152;2017;Informační a komunikační činnosti;59268.340518759345
+533224;muž;Jan;Šedivý;Větrník 1170;Cáslav;Czech Republic;1936-07-08;81;O+;76.3;161;2017;Zemědělství, lesnictví a rybářství;32547.585081311983
+895460;žena;Nikol;Ženíšková;Tylova 1717;Chrast u Chrudime;Czech Republic;1944-01-01;68;B+;67.6;168;2011;Profesní, vědecké a technické činnosti;19824.16864978226
+674787;muž;Josef;﻿Novotný;Družstevní práce 1405;Mladá Vožice;Czech Republic;1984-04-02;26;A+;56.2;177;2010;Doprava a skladování;12981.917130953147
+369879;žena;Marta;Bártová;Hrubínova 610;Trebívlice;Czech Republic;1958-11-24;55;A+;103.1;155;2013;Zpracovatelský průmysl;43434.268402439666
+293530;žena;Kateřina;Plhalová;Čechova 333;Petrvald u Karviné;Czech Republic;1964-08-03;51;B+;96.6;176;2015;Zpracovatelský průmysl;35077.44802366592
+41449;žena;Markéta;Kubecová;Švermova 1452;Lipnice nad Sázavou;Czech Republic;1968-03-13;42;B+;71.5;171;2010;Zpracovatelský průmysl;32748.407687956325
+948390;žena;Ivana;Gujdová;V Zahradách 942;Hredle;Czech Republic;1976-10-31;36;AB+;84.7;181;2012;Peněžnictví a pojišťovnictví;28192.903835567573
+753426;žena;Monika;Holanová;U divadla 1403;Drnovice;Czech Republic;1956-01-21;60;O+;50.6;166;2015;Doprava a skladování;25031.54519108426
+636528;muž;Rudolf;Štencel;Osnická 839;Telc;Czech Republic;1964-02-18;56;A+;96.6;177;2019;Doprava a skladování;44201.77792863775
+12924;žena;Štěpánka;Zoubková;Mírová 1990;Divišov;Czech Republic;1943-03-05;72;O+;76.8;163;2014;Výroba a rozvod elektřiny, plynu, tepla;47212.395661108
+48452;žena;Jaroslava;Kružíková;Vostelčická 353;Petrovice u Rakovníka;Czech Republic;1978-06-14;42;A+;62.6;176;2020;Vzdělávání;36480.660506204345
+684445;žena;Marie;Petřeková;Palackého 261;Dobruška;Czech Republic;2002-06-17;16;AB+;99.5;170;2018;Veřejná správa a obrana, povinné sociální zabezpečení;48101.05700108639
+203578;žena;Magdalena;Soumarová;Tyršova 497;Trnov u Dobrušky;Czech Republic;1974-09-02;42;A+;99.5;168;2016;Zdravotní a sociální péče;23233.201371341216
+641102;žena;Jarmila;Slámová;Mlýnská 1999;Jimramov;Czech Republic;1989-01-19;23;O+;101.3;163;2011;Obchod, opravy motorových vozidel;58689.42064853255
+138626;muž;Tomáš;Burda;Bartákova 1922;Písek 1;Czech Republic;1972-08-15;38;A+;88.3;162;2010;Peněžnictví a pojišťovnictví;48809.58157690067
+436917;žena;Eva;Vlachynská;Nové Město 1551;Pardubice 2;Czech Republic;1965-05-15;48;A+;63.2;174;2013;Obchod, opravy motorových vozidel;49620.79671116077
+956417;muž;Evgeny;Kolínský;Strmá 1461;Lysice;Czech Republic;1958-01-05;57;B+;98.1;180;2014;Administrativní a podpůrné činnosti;32939.13839079542
+465503;žena;Věra;Pokorná;Bartákova 1923;Zbiroh;Czech Republic;1989-04-30;21;O+;71.6;161;2010;Veřejná správa a obrana, povinné sociální zabezpečení;27901.088183985757
+624682;muž;Jan;Vozdecký;Tyršova 1109;Dub nad Moravou;Czech Republic;1957-12-07;57;B+;65.8;167;2014;Zpracovatelský průmysl;14392.783741940742
+610375;žena;Jana;Kaiserová;Družstevní 100;Skuhrov nad Belou;Czech Republic;1989-08-25;28;B+;61.7;154;2017;Zpracovatelský průmysl;15274.06031675691
+744904;žena;Brigita;Nováková;Palackého 1905;Lužec nad Cidlinou;Czech Republic;1984-07-11;26;O+;62.0;157;2010;Veřejná správa a obrana, povinné sociální zabezpečení;34449.46286139629
+745339;muž;Goran;Bena;Pod Floriánem 1701;Konice;Czech Republic;1947-08-31;70;O+;101.7;169;2017;Zpracovatelský průmysl;55759.48239440516
+960724;žena;Zuzana;Nováková;Hrubínova 1379;Brezno u Mladé Boleslave;Czech Republic;1951-05-08;63;A+;79.7;170;2014;Peněžnictví a pojišťovnictví;14073.934882350337
+883189;muž;David;Šefčík;Jiráskova 376;Svetlá nad Sázavou;Czech Republic;1999-07-05;12;O+;56.1;164;2011;Administrativní a podpůrné činnosti;13388.799868360042
+650690;žena;Jana;Švehlová;U Sokolovny 1803;Jevišovice;Czech Republic;1955-04-08;59;B+;96.9;163;2014;Zpracovatelský průmysl;18748.765621472474
+712400;muž;Anton;Poul;Jiřího z Poděbrad 317;Praha 111;Czech Republic;1962-02-27;49;O+;79.3;169;2010;Zpracovatelský průmysl;13576.194184951008
+313481;žena;Zdeňka;Židková;Ke hřišti 164;Popelín;Czech Republic;1993-05-04;17;O+;52.6;169;2010;Kulturní, zábavní a rekreační činnosti;27468.863855713298
+750539;muž;Jaroslav;Danko;V Trávníkách 1489;Opocnice;Czech Republic;1952-11-17;64;AB+;91.2;182;2016;Zpracovatelský průmysl;63810.43058989514
+830752;žena;Lenka;Svobodová;Dobrovského 1158;Skalice nad Svitavou;Czech Republic;1994-11-01;20;O+;96.2;158;2014;Profesní, vědecké a technické činnosti;28460.12626412119
+806616;muž;Zbyněk;Bína;Na Sadech 34;Velká nad Velickou;Czech Republic;1992-06-29;26;B+;115.8;166;2018;Doprava a skladování;62554.525549459606
+986403;žena;Renáta;Lisá;Střední 1748;Prachatice;Czech Republic;2002-12-04;13;B+;100.7;165;2015;Zpracovatelský průmysl;24674.217448809006
+245253;žena;Marie;Bělková;Hájecká 1361;Velké Mezirící;Czech Republic;1941-08-25;77;A+;95.2;154;2018;Vzdělávání;44114.651213316705
+161256;žena;Alena;Machová;Třebčínská 361;Klášterec nad Orlicí;Czech Republic;1977-07-31;38;O+;73.2;172;2015;Administrativní a podpůrné činnosti;40119.85635082558
+634552;muž;Josef;Marek;Americká 12;Žádovice;Czech Republic;1999-03-29;16;O+;92.7;171;2015;Kulturní, zábavní a rekreační činnosti;40689.79041588391
+766711;muž;Oldřich;Horníček;Stožická 727;Smidary;Czech Republic;2001-08-05;14;B+;101.3;162;2015;Kulturní, zábavní a rekreační činnosti;14917.56015594583
+469471;muž;Peter;Morávek;Nad Tratí 542;Drítec;Czech Republic;1985-05-05;32;A+;67.1;175;2017;Zpracovatelský průmysl;18128.230150892785
+469277;muž;Emil;Homola;Polní 808;Míškovice u Holešova;Czech Republic;1971-06-17;44;AB+;56.1;182;2015;Zdravotní a sociální péče;31448.772872364407
+517730;muž;Stanislav;Dudík;Na Výsluní 1287;Nové Syrovice;Czech Republic;1969-05-09;44;B+;82.2;169;2013;Ubytování, stravování a pohostinství;20332.825007049873
+495488;muž;Petr;Strakoš;Jiráskova 1811;Chudobín;Czech Republic;1967-10-24;45;O+;63.5;170;2012;Zpracovatelský průmysl;20534.649614539096
+274225;žena;Zlatuše;Formánková;Ke hřišti 1812;Ostrava 24;Czech Republic;1943-01-20;70;A+;61.3;165;2012;Zdravotní a sociální péče;71182.99212600733
+545926;muž;Milan;Dvořák;Za Školou 700;Smilovice u Trince;Czech Republic;1995-07-28;23;A+;68.8;182;2018;Zásobování vodou, činnosti související s odpady;38212.22911577284
+116500;muž;Robert;Košut;Větrník 686;Jamné u Jihlavy;Czech Republic;1991-09-29;21;A-;108.4;182;2012;Stavebnictví;23047.761359253298
+745137;muž;Pavel;Pokorný;Spojovací 1300;Loket;Czech Republic;1953-10-03;64;B+;76.7;163;2017;Zpracovatelský průmysl;15235.97654291862
+252968;muž;Jiří;Bartůšek;Příční 1285;Týnec nad Sázavou;Czech Republic;1946-11-10;67;O+;64.5;154;2013;Zpracovatelský průmysl;14277.300032252482
+343452;žena;Markéta;Dohnálková;Luční 1594;Brušperk;Czech Republic;1939-07-02;79;O+;86.0;167;2018;Veřejná správa a obrana, povinné sociální zabezpečení;29529.8000534894
+590998;muž;Jiří;Mlčoch;Mlýnská 558;Nasavrky;Czech Republic;1995-09-02;17;A+;109.5;161;2012;Zpracovatelský průmysl;41987.13484671057
+191975;žena;Marie;Nováková;Na Kopečku 1640;Mariánské Lázne 1;Czech Republic;1948-06-05;66;O-;74.2;187;2014;Zdravotní a sociální péče;53488.92686396846
+386233;muž;Lukáš;Novotný;Nová 1512;Vecov;Czech Republic;1947-11-29;71;A+;105.7;183;2018;Stavebnictví;23180.225158416673
+667585;muž;Karel;Horvát;Nové Město 36;Kounov u Rakovníka;Czech Republic;1996-08-06;24;AB+;61.4;159;2020;Peněžnictví a pojišťovnictví;95541.02992094216
+685791;žena;Anna;Tancošová;Jabloňová 232;Valašské Klobouky;Czech Republic;1974-04-26;40;O+;91.6;164;2014;Vzdělávání;38234.821062689705
+806277;žena;Šárka;Holubcová;Poštovní 1341;Únešov;Czech Republic;1948-12-28;69;O+;66.4;181;2017;Vzdělávání;30296.43849929571
+249394;žena;Ilona;Čajková;Prokopská 339;Dolní Branná;Czech Republic;1988-01-07;30;A+;86.2;176;2017;Doprava a skladování;19360.55337446928
+599575;muž;Ladislav;Štěpka;Jiráskova 1734;Policka;Czech Republic;1999-08-17;13;O-;75.4;155;2012;Zpracovatelský průmysl;24965.923797264884
+889544;žena;Michaela;Nguyen;Klimenta Čermáka 101;Litomerice 1;Czech Republic;1962-02-11;49;A+;83.2;183;2010;Zdravotní a sociální péče;12479.42125121436
+256512;žena;Marie;Barnová;Pivovarská 1194;Strakonice 1;Czech Republic;1992-06-02;27;B+;71.8;171;2019;Zpracovatelský průmysl;41094.07624911964
+82453;muž;Martin;﻿Novák;Ke hřišti 1935;Nechanice;Czech Republic;1992-04-27;18;A+;62.8;172;2010;Zpracovatelský průmysl;25098.785659699406
+321354;muž;Vítězslav;Bulíček;Žerotínova 452;Vysoké Mýto;Czech Republic;1967-09-21;51;O+;96.5;175;2018;Zdravotní a sociální péče;53158.674353845316
+380534;muž;Petr;Pokorný;Lidická 222;Jankov;Czech Republic;1961-04-11;58;B+;84.2;182;2019;Zpracovatelský průmysl;53983.726912534825
+63849;muž;Ivan;Hosnedl;Partyzánská 1652;Ceské Budejovice 6;Czech Republic;1976-03-14;43;A+;78.0;167;2019;Profesní, vědecké a technické činnosti;67731.11541962226
+416020;žena;Jarmila;Dědečková;Fibichova 967;Unhošt;Czech Republic;2002-06-23;16;O+;60.9;186;2018;Obchod, opravy motorových vozidel;22499.19918289512
+273134;žena;Drahoslava;Nováčková;U divadla 789;Príbram 1;Czech Republic;1965-02-11;50;B+;82.8;171;2014;Zpracovatelský průmysl;19698.28025391438
+212508;muž;Luboš;Kubišta;Bezručova 1570;Pobežovice;Czech Republic;1968-06-01;46;AB+;71.4;175;2014;Zpracovatelský průmysl;42845.67051371052
+300520;žena;Martina;Svobodová;Masarykova 69;Kdyne;Czech Republic;1996-02-03;25;A+;66.9;163;2020;Ubytování, stravování a pohostinství;16200
+749250;žena;Petra;Lavičková;Bedřicha Smetany 774;Jihlava 1;Czech Republic;1974-11-10;43;B+;80.9;162;2017;Veřejná správa a obrana, povinné sociální zabezpečení;24474.478860238112
+649718;muž;Jakub;Zahradník;Polní 1063;Moravské Budejovice 2;Czech Republic;1946-09-03;67;O+;90.0;171;2013;Obchod, opravy motorových vozidel;54903.944508156266
+967860;žena;Zdenka;Švestková;Dobrovského 746;Pacov;Czech Republic;1967-03-22;50;A-;98.2;169;2017;Vzdělávání;37362.63093538928
+618701;žena;Iveta;Linhartová;Jiráskova 1704;Vlachovice;Czech Republic;1973-09-21;39;A-;104.8;181;2012;Zpracovatelský průmysl;33965.43405729171
+597868;muž;Roman;Přerost;Hřbitovní 1083;Hejnice;Czech Republic;1977-10-25;39;AB+;95.3;172;2016;Profesní, vědecké a technické činnosti;73734.9799284064
+256463;žena;Jelena;Spáčilová;Nová 1026;Valdice;Czech Republic;1976-08-02;35;B+;77.4;166;2011;Zdravotní a sociální péče;25098.95408109571
+391647;muž;Tomáš;Křivka;Tyršova 1263;Strmilov;Czech Republic;1978-12-19;40;O-;96.7;154;2018;Administrativní a podpůrné činnosti;32195.871794383675
+845941;žena;Jana;Vágnerová;Hálkova 1727;Slaná u Semil;Czech Republic;1999-07-15;18;B+;111.5;162;2017;Veřejná správa a obrana, povinné sociální zabezpečení;43847.633775725306
+871269;žena;Štěpánka;Šťastná;Louny 1118;Chotoviny;Czech Republic;1977-06-13;39;B+;63.6;177;2016;Ubytování, stravování a pohostinství;15177.864207243509
+884217;žena;Lenka;Zbořilová;Jičín 1499;Opava 1;Czech Republic;1940-03-06;80;O+;66.0;182;2019;Zpracovatelský průmysl;31754.792261220657
+247187;žena;Hana;Novotná;Mírová 1921;Prosec u Skutce;Czech Republic;1956-03-04;58;O+;92.4;170;2013;Profesní, vědecké a technické činnosti;13936.773992408698
+567631;muž;Jan;Prokeš;Zahradní 550;Velim;Czech Republic;1969-12-31;43;B+;76.5;168;2012;Zemědělství, lesnictví a rybářství;33745.70148194838
+785030;muž;Jaroslav;Vodehnal;Smetanova 1199;Címer;Czech Republic;2000-05-06;17;A+;87.5;153;2017;Zpracovatelský průmysl;41007.40905262823
+37701;muž;Marek;Rybár;Nová 1880;Tršice;Czech Republic;1955-04-06;64;O-;77.6;169;2019;Administrativní a podpůrné činnosti;19580.404314536674
+112531;muž;Aleš;Rýznar;Nová 1887;Vítkov 1;Czech Republic;1988-11-01;31;AB-;82.4;170;2019;Doprava a skladování;32286.618623822204
+410524;muž;František;Tůma;Masarykova 1512;Bolebor;Czech Republic;1951-10-23;67;A+;66.0;152;2018;Doprava a skladování;28817.641587794405
+179490;muž;Martin;Stejskal;Pivovarská 1670;Sudice;Czech Republic;1936-07-14;77;O+;84.3;182;2013;Informační a komunikační činnosti;14084.147606501581
+276934;muž;Jiří;Fišer;Vrchlického 96;Trnová u Plzne;Czech Republic;1985-07-10;26;A+;55.4;161;2011;Obchod, opravy motorových vozidel;29793.289251981754
+766162;muž;Ondřej;Jiroušek;Jeronýmova 901;Suchdol u Prostejova;Czech Republic;1977-04-08;37;B+;71.4;159;2014;Zpracovatelský průmysl;30037.527185081643
+515477;žena;Lyudmyla;Knoppová;Sokolská 1438;Kamenné Žehrovice;Czech Republic;1997-11-02;13;O-;59.9;172;2010;Zdravotní a sociální péče;32330.813699102164
+983927;muž;Jakub;Mládek;Karafiátova 1658;Chocen 1;Czech Republic;1983-01-23;34;O+;65.8;161;2016;Obchod, opravy motorových vozidel;37877.60296918892
+759187;žena;Eliška;Hrušková;Pardubská 1521;Chomutice u Horic v Podkrkonoší;Czech Republic;1997-07-24;21;A+;79.2;178;2018;Ubytování, stravování a pohostinství;15350.956716635706
+459692;žena;Marie;Sotonová;Žerotínova 530;Horní Bríza;Czech Republic;1960-07-08;53;O-;105.4;169;2013;Vzdělávání;35516.103123508896
+914933;žena;Božena;Kolářová;Jiráskova 1379;Petrovice u Rakovníka;Czech Republic;1999-09-21;15;O+;81.6;173;2014;Vzdělávání;34044.755693817206
+398526;žena;Karolína;Tomanová;Jičín 276;Uhlírské Janovice;Czech Republic;1990-07-17;21;O+;97.3;168;2011;Zpracovatelský průmysl;49148.26308229974
+185493;muž;Michal;Štochl;Pod Strání 837;Ceské Budejovice 1;Czech Republic;1962-06-11;51;O+;69.1;159;2013;Veřejná správa a obrana, povinné sociální zabezpečení;39413.97403468118
+355835;žena;Jaroslava;Dunková;Osnická 551;Vresovice;Czech Republic;1961-05-01;50;B+;64.8;174;2011;Zpracovatelský průmysl;32959.673689011506
+771826;muž;Radek;﻿Dvořák;Tyršova 295;Mesto Touškov;Czech Republic;1939-05-18;78;A+;92.9;183;2017;Zpracovatelský průmysl;14971.565118595958
+341138;muž;Petr;Záruba;Hřbitovní 1719;Kokorín;Czech Republic;1993-01-26;24;O+;101.9;151;2016;Doprava a skladování;54623.46706392108
+315977;muž;Josef;Šimurda;Osvobození 1568;Vladislav;Czech Republic;1985-10-24;25;A+;80.9;154;2010;Administrativní a podpůrné činnosti;36267.872977864594
+379076;muž;Patrik;Konvička;Větrná 1410;Krnov 1;Czech Republic;1978-10-26;32;O+;108.4;178;2010;Administrativní a podpůrné činnosti;24985.981461105708
+185808;muž;Jiří;Mottl;Družstevní 835;Strakonice 1;Czech Republic;1946-10-02;64;B+;61.4;181;2010;Veřejná správa a obrana, povinné sociální zabezpečení;58739.7545705787
+945761;žena;Marie;Andrlíková;Tyršova 1405;Prelouc;Czech Republic;1984-11-25;26;B+;90.4;175;2010;Veřejná správa a obrana, povinné sociální zabezpečení;24512.133081457356
+892792;žena;Magdaléna;Šímová;Klímova 1463;Horovice;Czech Republic;1985-08-03;26;O+;70.4;176;2011;Obchod, opravy motorových vozidel;16525.131800070318
+436803;muž;Josef;Dytrych;Na Výsluní 1851;Bystré u Policky;Czech Republic;1974-06-12;39;AB+;54.6;173;2013;Zdravotní a sociální péče;33257.62980445639
+618873;žena;Eva;Dostalová;Sokolská 1354;Dražice;Czech Republic;1996-10-12;19;O+;64.3;181;2015;Profesní, vědecké a technické činnosti;34407.9472671266
+674534;muž;George;Minařík;Na Výsluní 1764;Slušovice;Czech Republic;1999-07-17;17;B+;84.5;162;2016;Zpracovatelský průmysl;37084.05669248513
+729957;muž;Lukáš;Strejček;Tylova 855;Horaždovice;Czech Republic;1968-02-11;50;A+;68.2;182;2017;Zpracovatelský průmysl;64028.36512531054
+935601;žena;Blanka;Stejskalová;Nábřežní 645;Kolec;Czech Republic;1965-06-20;51;A+;98.7;188;2016;Zpracovatelský průmysl;15064.786121349207
+467086;žena;Jana;Kaslová;Tyršova 1944;Dolní Loucky;Czech Republic;1953-04-23;67;O+;99.0;182;2020;Vzdělávání;34448.81524964077
+291879;žena;Jiřina;Ryšánková;Bezručova 1929;Zastávka u Brna;Czech Republic;1955-12-31;58;B-;56.6;177;2013;Veřejná správa a obrana, povinné sociální zabezpečení;43710.099580501854
+449380;žena;Ivona;Pípalová;Jindřichova 704;Mariánské Lázne 1;Czech Republic;1981-12-01;30;B+;94.3;159;2011;Zpracovatelský průmysl;30689.56641412913
+62066;žena;Jiřina;Šulcová;Palackého 509;Aš 1;Czech Republic;1978-11-12;39;O+;72.3;160;2017;Administrativní a podpůrné činnosti;15185.531357362584
+615747;žena;Kateřina;Benešovská;Třebčická 826;Praha 2;Czech Republic;1982-04-04;37;A+;88.2;169;2019;Zpracovatelský průmysl;17948.164450135522
+868285;muž;Adam;Feix;Mlýnské údolí 1728;Hostoun u Horšovského Týna;Czech Republic;1952-08-30;64;A+;70.5;159;2016;Veřejná správa a obrana, povinné sociální zabezpečení;63531.21638110672
+105503;žena;Soňa;Vacková;Hřbitovní 133;Luže;Czech Republic;1985-01-09;28;O+;97.3;167;2012;Zpracovatelský průmysl;19385.454664694294
+283283;žena;Nikola;Zouharová;Nové Město 967;Úpice;Czech Republic;1961-01-25;60;A+;90.0;181;2020;Ostatní činnosti;43127.426017163525
+956816;muž;Miroslav;Kadeřábek;Větrník 1188;Zastávka u Brna;Czech Republic;1973-11-05;39;A+;91.6;187;2012;Veřejná správa a obrana, povinné sociální zabezpečení;60162.735672584844
+138561;muž;Vladimír;Potměšil;Na Loučkách 1388;Hronov 1;Czech Republic;1989-03-05;29;A+;104.6;173;2017;Stavebnictví;45838.07831577869
+663651;žena;Marie;Pecková;Ehrmannova 128;Josefuv Dul u Jablonce nad Nisou;Czech Republic;1974-03-17;41;B+;54.8;154;2015;Vzdělávání;19614.674873085118
+348332;žena;Dana;Mikulenková;Na Kopci 1341;Telc;Czech Republic;1951-04-26;66;O+;79.6;181;2017;Zpracovatelský průmysl;15079.869196309084
+662877;muž;Ladislav;Zemek;Jiráskova 1730;Cercany;Czech Republic;2003-01-09;9;O+;104.5;173;2011;Zpracovatelský průmysl;35063.549402533674
+795533;muž;Jan;Netolický;Školní 990;Orechov u Brna;Czech Republic;1961-04-30;52;O-;85.4;160;2013;Vzdělávání;38260.84090681636
+281644;muž;Daniel;Pospěch;Sokolská 421;Úpice;Czech Republic;1973-11-21;41;O+;82.0;169;2014;Činnosti v oblasti nemovitostí;14241.291390619324
+275825;žena;Eliška;Zoulová;U Sokolovny 411;Stankov;Czech Republic;1985-02-06;34;O+;65.4;171;2018;Zpracovatelský průmysl;30727.982846078387
+955753;žena;Helga;Kouřilová;Mlýnské údolí 1976;Toužim;Czech Republic;1973-01-20;42;O+;97.8;190;2014;Profesní, vědecké a technické činnosti;20238.930171232783
+894687;muž;Josef;Matějka;Tylova 1550;Roudnice nad Labem;Czech Republic;1940-12-21;73;AB+;74.5;180;2013;Peněžnictví a pojišťovnictví;13815.363930667761
+105778;žena;Michaela;Chaloupková;Hrubínova 1733;Pohorelice;Czech Republic;1980-01-23;40;A+;76.7;153;2019;Veřejná správa a obrana, povinné sociální zabezpečení;37475.40153972864
+396149;žena;Růžena;Rychterová;Větrná 1453;Dubenec u Dvora Králové nad Labem;Czech Republic;1940-05-17;72;B+;113.0;171;2012;Zdravotní a sociální péče;35219.96744690913
+788675;žena;Jindřiška;Bartošová;Matiegkova 246;Dolní Kralovice;Czech Republic;1994-04-15;20;A-;83.5;161;2014;Profesní, vědecké a technické činnosti;14551.062199417807
+690848;žena;Anna;Pokorná;Alšova 1746;Pelhrimov;Czech Republic;1962-12-29;50;O+;64.5;156;2012;Obchod, opravy motorových vozidel;44504.838044659235
+996464;žena;Radmila;Tinková;Absolonova 360;Pyšely;Czech Republic;1938-09-07;80;A+;79.3;157;2018;Peněžnictví a pojišťovnictví;17497.852407481652
+151143;žena;Zdeňka;Štolcová;Osvobození 979;Hostinné;Czech Republic;1936-07-14;77;O+;86.3;187;2013;Kulturní, zábavní a rekreační činnosti;14038.5413575513
+380698;muž;Marcel;Kroček;Hájecká 1738;Bruntál 1;Czech Republic;1990-12-25;30;O+;102.3;171;2020;Profesní, vědecké a technické činnosti;16200
+635044;žena;Jarmila;Zavadilová;V Aleji 99;Hovorany;Czech Republic;1960-08-02;50;A+;90.9;169;2010;Zpracovatelský průmysl;13177.400232405022
+42373;žena;Eva;Bečková;Malá Strana 372;Rájec-Jestrebí;Czech Republic;1961-04-26;52;B+;109.8;154;2013;Zdravotní a sociální péče;44890.83890232
+695823;muž;Oldřich;Strnad;Luční 898;Knínice u Boskovic;Czech Republic;1961-02-01;55;AB+;89.6;167;2015;Zpracovatelský průmysl;36281.474248087274
+248760;muž;František;Indrák;Větrná 1185;Dolní Újezd u Litomyšle;Czech Republic;1976-07-07;36;A+;58.8;169;2012;Ubytování, stravování a pohostinství;23227.20911471878
+483751;žena;Milada;Richterová;Mlýnské údolí 417;Dacice;Czech Republic;1954-02-19;66;A-;71.9;167;2019;Obchod, opravy motorových vozidel;15835.434679374976
+558739;žena;Alena;Jírová;Lomená 989;Brasy 1;Czech Republic;1940-12-24;77;O+;95.6;179;2017;Obchod, opravy motorových vozidel;36346.41110083048
+281479;žena;Helena;Gregorová;Jabloňová 1374;Netvorice;Czech Republic;1954-12-29;57;B+;101.4;154;2011;Zpracovatelský průmysl;42986.046293915715
+84355;žena;Marie;Vargová;Čechova 118;Holýšov;Czech Republic;1966-06-16;48;A+;73.4;171;2014;Obchod, opravy motorových vozidel;32045.694919575835
+208665;muž;Ondřej;Sedlák;Úzká 1968;Jindrichuv Hradec 1;Czech Republic;1946-05-22;66;B+;101.5;165;2012;Zpracovatelský průmysl;53145.22749716448
+94701;muž;Josef;Málek;Vrchlického 1608;Havlíckuv Brod 1;Czech Republic;1938-12-14;80;A+;77.9;154;2018;Peněžnictví a pojišťovnictví;15364.791904792437
+100862;žena;Anna;Rajnochová;Tyršova 883;Komárov u Horovic;Czech Republic;1971-08-05;41;O+;89.0;187;2012;Profesní, vědecké a technické činnosti;31001.95086042735
+554413;muž;Michal;Slepička;Matiegkova 1807;Rudolfov;Czech Republic;1980-03-06;36;A+;80.0;170;2015;Administrativní a podpůrné činnosti;17423.669907403604
+794905;žena;Marie;Mazalová;Jana Nerudy 303;Praha 911;Czech Republic;1974-06-27;45;O+;99.1;162;2019;Obchod, opravy motorových vozidel;44877.48441817189
+580902;žena;Dana;Hocková;Havlíčkova 1710;Semily;Czech Republic;1997-02-10;23;A+;66.8;176;2019;Zpracovatelský průmysl;33049.36103848667
+768130;žena;Marie;Rezková;Masarykova 960;Verovice;Czech Republic;1973-10-19;38;O+;69.3;161;2011;Veřejná správa a obrana, povinné sociální zabezpečení;23261.634641211032
+298255;muž;Zdeněk;Petr;Pod Malsičkou 1496;Nové Mesto nad Metují 1;Czech Republic;1987-02-05;31;O+;80.1;163;2017;Obchod, opravy motorových vozidel;45798.235870898454
+742760;žena;Jana;Šulcová;Dělnická 1030;Louny 1;Czech Republic;1977-09-21;38;A+;69.1;154;2015;Ostatní činnosti;25880.607558709977
+689374;žena;Markéta;Krčmářová;Havlíčkova 711;Strakonice 1;Czech Republic;1999-07-23;13;AB+;90.2;157;2012;Zpracovatelský průmysl;44300.524697439316
+388819;muž;Josef;Holomek;Dělnická 612;Stráž nad Nežárkou;Czech Republic;2002-01-07;10;O-;85.9;155;2011;Veřejná správa a obrana, povinné sociální zabezpečení;13302.044096093941
+745431;muž;David;Bubák;Dělnická 487;Hermanice nad Labem;Czech Republic;1938-10-27;77;O+;62.0;178;2015;Zpracovatelský průmysl;56783.12817270836
+726147;muž;Michael;Štěpka;Jana Šťastného 960;Merín;Czech Republic;1945-05-17;68;O+;95.6;153;2013;Obchod, opravy motorových vozidel;20115.545526720547
+376318;žena;Monika;Koukalová;Luční 1011;Brloh;Czech Republic;1942-08-11;73;A+;91.7;167;2015;Administrativní a podpůrné činnosti;32865.49672456389
+942449;žena;Petra;Špičková;Velký průhon 997;Praha 511;Czech Republic;1977-02-01;35;B+;69.3;170;2011;Vzdělávání;22769.82171201438
+946658;muž;Marek;mužček;Pivovarská 527;Jimramov;Czech Republic;1983-09-27;31;O-;71.8;158;2014;Zemědělství, lesnictví a rybářství;44509.19429552755
+997233;žena;Marie;Hrabáková;Poštovní 1035;Zákolany;Czech Republic;1943-08-24;74;A+;99.0;167;2017;Obchod, opravy motorových vozidel;33505.81445670798
+353247;žena;Bohumila;Sýkorová;Příkopy 1490;Líšnice;Czech Republic;1981-11-18;37;O+;64.2;163;2018;Ubytování, stravování a pohostinství;15443.08021045272
+398207;muž;Martin;Ivanov;Bártova 1714;Kostelec nad Orlicí;Czech Republic;2000-10-10;10;O+;91.4;152;2010;Stavebnictví;25256.740515092573
+399070;žena;Josefa;Šimáčková;Žerotínova 1831;Lipník u Hrotovic;Czech Republic;1953-08-26;58;B+;105.5;167;2011;Zpracovatelský průmysl;29809.300121463046
+634783;žena;Sylva;Seidlová;Nové Město 1965;Ceské Budejovice 7;Czech Republic;1975-01-14;42;A-;65.1;174;2016;Veřejná správa a obrana, povinné sociální zabezpečení;49580.300240882
+706931;žena;Vladislava;Štefanová;Dobrovského 1230;Trstenice u Litomyšle;Czech Republic;1966-02-01;55;O+;116.1;169;2020;Zpracovatelský průmysl;40480.15195521376
+995116;žena;Šárka;Zmeškalová;Vostelčická 672;Horní Cermná;Czech Republic;1940-04-15;71;O-;111.4;165;2011;Zdravotní a sociální péče;24120.685223737222
+962580;žena;Šárka;Janků;Kovářská 323;Hrotovice;Czech Republic;1972-05-08;44;O+;111.8;155;2016;Zdravotní a sociální péče;39536.69830528172
+232054;žena;Danuška;Sobotková;Lidická 1070;Janov u Litomyšle;Czech Republic;1993-04-21;21;O+;75.3;173;2014;Zpracovatelský průmysl;14629.621275075602
+834946;muž;František;Zima;Masarykova 936;Neveklov;Czech Republic;1998-11-14;19;B+;81.5;168;2017;Administrativní a podpůrné činnosti;28904.719066231457
+569735;žena;Elen;Polednová;Strojírenská 1622;Pavlíkov;Czech Republic;1951-06-10;65;O+;96.1;179;2016;Zdravotní a sociální péče;32365.25416823514
+701055;žena;Marie;Moudrá;Mládežnická 1110;Bystrice nad Olší;Czech Republic;1993-12-15;22;A+;64.1;156;2015;Obchod, opravy motorových vozidel;21614.420345572784
+530877;žena;Kristýna;Neumannová;Nezvalova 969;Toužim;Czech Republic;1981-10-23;31;O-;75.7;153;2012;Profesní, vědecké a technické činnosti;57821.371872325195
+247592;žena;Alice;Svobodová;Za Plynárnou 1217;Podborany;Czech Republic;1966-09-05;46;O+;85.1;168;2012;Obchod, opravy motorových vozidel;13958.378245448388
+385146;muž;Zdenek;Tvrdý;Jana Šťastného 1766;Vítkov 1;Czech Republic;1993-04-21;27;O+;70.1;177;2020;Obchod, opravy motorových vozidel;17624.0615278448
+18174;žena;Zuzana;Zahradníčková;U Trati 523;Bílina 4;Czech Republic;1990-02-06;27;A+;60.0;178;2016;Zásobování vodou, činnosti související s odpady;21150.964437740142
+453148;žena;Jiřina;Nováková;Hálkova 742;Horní Benešov;Czech Republic;1967-08-04;46;B+;98.4;168;2013;Obchod, opravy motorových vozidel;23285.5143989816
+768532;žena;Jana;Kadavá;Sokolovská 186;Lenora;Czech Republic;1947-01-18;64;B+;87.0;167;2010;Profesní, vědecké a technické činnosti;18524.98661289483
+455795;žena;Irena;Bencová;Alšova 1270;Karlovice;Czech Republic;1975-10-04;37;A+;58.8;166;2012;Vzdělávání;42354.04218906038
+722739;žena;Dana;Březinová;Hájecká 1656;Kutná Hora 1;Czech Republic;1994-03-30;24;A-;97.8;172;2018;Obchod, opravy motorových vozidel;15700.229604659937
+562940;muž;Josef;Ptáček;Školní 620;Broumov 1;Czech Republic;1954-05-09;65;O+;85.8;179;2019;Informační a komunikační činnosti;15833.301557374793
+162933;muž;Ladislav;Gabčo;Větrník 1432;Strakonice 1;Czech Republic;1958-09-29;58;A+;77.4;173;2016;Zpracovatelský průmysl;29146.96344903474
+21396;žena;Natálie;Hynková;Za humny 1817;Kralovice;Czech Republic;1938-06-12;73;AB+;70.9;172;2011;Zpracovatelský průmysl;19379.901989587408
+144449;žena;Zdenka;Němečková;Truhlářská 779;Žlutice;Czech Republic;1969-08-25;51;B+;82.8;171;2020;Veřejná správa a obrana, povinné sociální zabezpečení;32593.45567743949
+431089;muž;Jindřich;Nečas;Sídliště Za Chlumem 132;Žatec 1;Czech Republic;1939-08-30;78;O+;102.3;158;2017;Doprava a skladování;44437.89462368763
+744308;muž;Jaromír;Mokrý;Bártova 1285;Nový Knín;Czech Republic;1965-02-26;47;B+;65.3;172;2011;Veřejná správa a obrana, povinné sociální zabezpečení;14193.336721220454
+392657;muž;Miroslav;Hykl;Školní 974;Želetice u Kyjova;Czech Republic;1962-07-24;51;A+;75.5;173;2013;Ubytování, stravování a pohostinství;23578.923642121157
+682915;muž;Jaroslav;Švanda;Střední 1838;Brandýsek;Czech Republic;1998-11-01;21;O+;94.9;165;2019;Informační a komunikační činnosti;15936.569138634788
+345920;muž;Martin;Brunclík;Jiřího z Poděbrad 87;Šternberk 1;Czech Republic;1993-05-11;24;B+;66.1;156;2017;Zpracovatelský průmysl;51280.84412341338
+441661;muž;Josef;Rudolf;Osnická 148;Sychrov;Czech Republic;1980-09-27;36;O+;66.6;179;2016;Doprava a skladování;49152.418440934554
+411920;muž;Jan;Balcárek;Bedřicha Smetany 1757;Vlašim;Czech Republic;1942-05-03;70;O+;90.4;162;2012;Stavebnictví;43246.77300845441
+723313;žena;Eva;Šmídová;Václava Haňky 53;Uherský Brod 1;Czech Republic;1981-01-28;30;O+;81.4;156;2010;Zdravotní a sociální péče;46239.92559195334
+530500;žena;Věra;Kolbabová;Pivovarská 487;Habartov;Czech Republic;1958-06-24;57;B+;87.8;156;2015;Veřejná správa a obrana, povinné sociální zabezpečení;14006.930625069643
+227391;muž;Josef;Nguyen;Klímova 203;Domažlice 1;Czech Republic;1943-02-03;78;O+;89.2;152;2020;Stavebnictví;35814.56248316527
+45414;muž;Roman;Kapusta;Střední 819;Hranice 1;Czech Republic;1971-07-18;45;A+;75.4;181;2016;Zpracovatelský průmysl;19223.950501458956
+403205;muž;Tomáš;Gašpar;Jeronýmova 1998;Cernošice;Czech Republic;1994-02-19;18;O+;93.2;159;2011;Doprava a skladování;23124.20484276958
+871507;muž;Vladimír;Janda;Jižní 924;Kladky;Czech Republic;1953-01-19;61;O-;62.0;171;2013;Stavebnictví;37734.068964282866
+817676;muž;Milan;Čejka;K Pazderně 1442;Lysice;Czech Republic;1974-04-22;37;B+;73.5;162;2011;Zdravotní a sociální péče;20254.50126171813
+372988;muž;Václav;Tomášek;Družstevní 1656;Sázava;Czech Republic;1967-08-20;47;B+;62.9;180;2014;Zpracovatelský průmysl;55513.81618347118
+362407;muž;Petr;Janecký;Sokolovská 228;Krtiny;Czech Republic;1941-09-14;79;A+;54.9;174;2020;Zemědělství, lesnictví a rybářství;20971.239051710538
+50858;muž;Radim;Plachetka;Horní 541;Lázne Bohdanec;Czech Republic;1995-06-06;24;O+;79.1;188;2019;Obchod, opravy motorových vozidel;15927.93068709406
+249063;muž;Marek;﻿Novotný;Sluneční 1565;Strojetice;Czech Republic;1993-07-26;25;B+;78.4;181;2018;Doprava a skladování;15569.379691813325
+489595;žena;Šárka;Kačerová;Opltova 1476;Dívcice;Czech Republic;1998-08-23;12;B+;81.5;174;2010;Obchod, opravy motorových vozidel;14143.495053740158
+160446;muž;Martin;Czyž;Barákova 616;Litomyšl;Czech Republic;1950-03-01;67;O+;66.1;167;2016;Veřejná správa a obrana, povinné sociální zabezpečení;15230.926345150401
+250246;muž;Ondřej;Bárta;Ke hřišti 988;Ceská Trebová 2;Czech Republic;1973-11-03;39;AB+;90.1;159;2012;Zpracovatelský průmysl;13634.302999665613
+961771;žena;Světlana;Fraňková;Havlíčkova 796;Nové Mesto nad Metují 1;Czech Republic;1964-01-04;47;B+;80.9;179;2010;Vzdělávání;13161.981502721372
+635626;žena;Dana;Vaculíková;Na Kopci 6;Velvary;Czech Republic;1992-06-04;20;O+;106.6;187;2012;Zdravotní a sociální péče;29327.551712725355
+906048;muž;Jiří;﻿Černý;Jiráskova 1406;Plumlov;Czech Republic;1942-10-30;74;O+;66.7;175;2016;Zpracovatelský průmysl;14862.796387923576
+512719;muž;Aleš;Myška;Budovatelská 583;Decín 2;Czech Republic;1971-07-01;40;O+;101.4;168;2011;Zpracovatelský průmysl;13506.860517279556
+655705;žena;Františka;Březinová;Dašická 768;Ceská Skalice;Czech Republic;1966-08-14;54;AB+;104.8;187;2020;Zpracovatelský průmysl;16200
+136562;žena;Marie;Novotná;U Křížku 1247;Kretín;Czech Republic;1937-08-14;77;A+;62.1;156;2014;Doprava a skladování;47965.382743559036
+304193;žena;Hana;Honsová;Luční 1503;Cerhovice;Czech Republic;1975-03-26;36;B+;63.9;158;2011;Obchod, opravy motorových vozidel;16248.77343319049
+367718;žena;Zdenka;Dudová;Bedřicha Smetany 987;Litomyšl;Czech Republic;1940-12-04;77;O+;62.4;176;2017;Zpracovatelský průmysl;24474.289141102825
+739315;žena;Ema;Vaněčková;Stožická 470;Zlín 1;Czech Republic;1977-05-24;39;O-;78.4;156;2016;Vzdělávání;38890.08832351505
+230203;muž;Ivo;Krečmer;Spojovací 523;Protivín;Czech Republic;1958-07-27;61;A+;78.0;184;2019;Zpracovatelský průmysl;17040.777044343118
+881448;žena;Blanka;Moravčíková;Jiráskova 403;Oselce;Czech Republic;1943-04-26;70;O+;72.2;178;2013;Vzdělávání;39680.5574983502
+653625;muž;Alois;Pagáč;Jižní 487;Kralovice;Czech Republic;1936-10-28;78;O+;79.8;157;2014;Doprava a skladování;22547.557738118558
+607097;muž;Antonín;Petera;Dvořákova 1744;Okríšky;Czech Republic;1971-09-23;40;O+;100.0;164;2011;Obchod, opravy motorových vozidel;65218.33470482505
+678753;muž;Karel;Pírek;K Lukárně 1201;Nejdek 1;Czech Republic;1997-12-22;18;A+;95.0;187;2015;Zpracovatelský průmysl;57456.62811946407
+359461;žena;Olga;Mužíková;Opltova 1693;Rychnov nad Knežnou;Czech Republic;1998-01-03;19;B+;75.3;158;2016;Zpracovatelský průmysl;16040.524894778737
+545084;muž;Jiří;Králík;Mlýnská 1194;Kostomlaty nad Labem;Czech Republic;1975-01-03;40;O+;52.7;172;2014;Těžba a dobývání;21553.74556909986
+431941;žena;Aneta;Stloukalová;Ke hřišti 1191;Horaždovice;Czech Republic;1939-01-27;76;A-;104.4;168;2014;Doprava a skladování;23740.93304640091
+620734;žena;Romana;Černá;Jiráskova 352;Moravská Trebová 1;Czech Republic;1982-08-02;33;O+;98.3;175;2015;Zpracovatelský průmysl;17563.979477907294
+827113;muž;František;﻿Černý;Školní 1199;Strání;Czech Republic;1986-08-16;25;O+;89.9;174;2011;Veřejná správa a obrana, povinné sociální zabezpečení;37567.83839263318
+962380;muž;Marek;Hák;Nové Město 1681;Chotetov;Czech Republic;1973-08-22;44;B+;76.2;185;2017;Doprava a skladování;30020.674203514278
+195063;muž;Ivan;Hořejší;Za humny 1211;Ohništany;Czech Republic;2000-01-24;13;A+;104.2;170;2012;Zpracovatelský průmysl;23519.32285288256
+756767;žena;Blanka;Horká;Svépomoc 208;Teplice 3;Czech Republic;1957-04-29;55;A+;80.8;170;2012;Administrativní a podpůrné činnosti;24830.64024799768
+350636;žena;Marie;Hanusová;Riegrova 1978;Pacov;Czech Republic;1954-07-28;56;A+;59.8;184;2010;Profesní, vědecké a technické činnosti;13318.625628875247
+852978;muž;Luboš;Nahodil;Pod Malsičkou 886;Srbská Kamenice;Czech Republic;1955-10-07;62;A+;77.5;157;2017;Profesní, vědecké a technické činnosti;36133.39805283593
+123034;muž;Vladimír;Syrový;Horní 893;Lysá nad Labem;Czech Republic;1936-10-07;80;O+;78.2;150;2016;Administrativní a podpůrné činnosti;15046.943919459078
+171305;muž;Jindřich;Matoušek;Bedřicha Smetany 634;Teplice nad Metují;Czech Republic;1946-11-12;68;B+;82.4;154;2014;Doprava a skladování;30834.290585863608
+133017;žena;Anna;Milatová;Pardubská 1235;Písek 1;Czech Republic;1948-08-06;63;A+;86.5;187;2011;Vzdělávání;57914.25020334469
+675979;žena;Kamila;Pomahačová;Sokolská 1435;Zbiroh;Czech Republic;1966-04-24;50;AB+;102.3;177;2016;Veřejná správa a obrana, povinné sociální zabezpečení;56618.422229313284
+216954;muž;Ondřej;Březina;Osnická 77;Trebíc 1;Czech Republic;1943-01-05;68;B+;87.7;168;2010;Zpracovatelský průmysl;29664.949573782073
+430386;muž;Jaroslav;Chromý;Třebčínská 1797;Úvaly;Czech Republic;1998-12-22;19;A-;48.6;158;2017;Těžba a dobývání;53731.84604976987
+695070;muž;František;Vávra;V Aleji 1582;Strakonice 1;Czech Republic;1964-11-16;54;A+;70.8;180;2018;Veřejná správa a obrana, povinné sociální zabezpečení;36710.655458804875
+926369;žena;Irena;Štolbová;Lomená 692;Domoušice;Czech Republic;1954-10-13;63;A+;104.9;155;2017;Doprava a skladování;32837.112024485476
+805511;muž;Petr;Sochor;Jižní 1430;Cholina;Czech Republic;1994-10-22;20;A+;109.5;172;2014;Profesní, vědecké a technické činnosti;85823.55720185243
+754684;žena;Aneta;Škrobánková;Školní 800;Cistá u Mladé Boleslave;Czech Republic;1991-07-03;20;O+;92.2;163;2011;Obchod, opravy motorových vozidel;22386.273179482396
+479101;muž;Lubomír;Pastor;Družstevní 1957;Prachatice;Czech Republic;1948-12-10;62;O+;80.0;188;2010;Zpracovatelský průmysl;13086.525659396686
+609588;muž;Volodymyr;Kutílek;Obránců míru 830;Nýrany;Czech Republic;1975-10-25;37;O+;63.1;182;2012;Zpracovatelský průmysl;14039.670134123706
+723171;žena;Eva;Vítková;Nerudova 262;Litencice;Czech Republic;1984-01-22;36;B+;76.7;164;2019;Zdravotní a sociální péče;37860.03533640185
+142251;muž;Jiří;﻿Kučera;U divadla 709;Paskov;Czech Republic;1939-12-21;75;O+;93.9;169;2014;Stavebnictví;45770.971150651334
+944067;muž;Oliver;Uherek;Pivovarská 1953;Nýrsko;Czech Republic;2000-09-21;16;O+;85.3;159;2016;Zpracovatelský průmysl;35184.27198175925
+412011;žena;Huong;Dvořáková;Dělnická 1438;Chotebor;Czech Republic;1980-11-08;32;O-;79.1;167;2012;Administrativní a podpůrné činnosti;13600.364222173006
+719472;muž;Jaroslav;Brázda;Dašická 1335;Litomerice 1;Czech Republic;1951-12-14;69;B+;63.0;183;2020;Zpracovatelský průmysl;16200
+313424;žena;Sandra;Nováková;Dobrovského 1183;Jihlava 1;Czech Republic;2000-03-26;11;B+;96.2;169;2011;Zpracovatelský průmysl;28493.633544794913
+183336;žena;Františka;Tomková;Hřbitovní 559;Cáslav;Czech Republic;1968-08-31;49;O+;84.5;183;2017;Zemědělství, lesnictví a rybářství;30863.034849817494
+211362;žena;Michaela;Jirušová;Klímova 1946;Divišov;Czech Republic;1955-04-17;58;O+;88.1;172;2013;Profesní, vědecké a technické činnosti;39359.070956886586
+987931;žena;Zuzana;Balážová;Jana Šťastného 1304;Bílovec 1;Czech Republic;1957-01-31;59;B+;59.7;154;2015;Profesní, vědecké a technické činnosti;14218.488122976274
+481711;muž;Ladislav;Švehla;Pivovarská 341;Okríšky;Czech Republic;1967-02-24;47;O+;80.7;171;2013;Obchod, opravy motorových vozidel;34031.62432388325
+638036;muž;Petr;Horník;Dukelská 955;Karlštejn;Czech Republic;1997-08-23;23;B+;90.4;179;2020;Zpracovatelský průmysl;16687.623348711033
+975207;muž;Roman;Sladký;Jiráskova 1468;Pustimer;Czech Republic;1954-09-28;59;A+;74.7;170;2013;Činnosti v oblasti nemovitostí;45759.3847855786
+822141;žena;Lenka;Sedláčková;Lesní 630;Horní Benešov;Czech Republic;1981-09-06;32;O+;98.4;174;2013;Veřejná správa a obrana, povinné sociální zabezpečení;44102.7094832785
+575935;muž;Milan;Zoubek;Stožická 1060;Sušice 1;Czech Republic;1956-03-15;59;B+;66.1;159;2015;Obchod, opravy motorových vozidel;24755.512529395925
+934386;žena;Martina;Adamová;Poštovní 242;Bystrice nad Pernštejnem;Czech Republic;1979-08-24;38;A+;92.3;179;2017;Obchod, opravy motorových vozidel;15499.639373011785
+865154;žena;Iva;Paříková;Na Loučkách 93;Líštany;Czech Republic;1953-04-09;59;B+;81.8;178;2012;Vzdělávání;39012.89031197046
+242716;žena;Milada;Volfová;Masarykova 629;Katusice;Czech Republic;1983-05-30;32;O+;106.6;166;2015;Peněžnictví a pojišťovnictví;57688.01634211864
+74645;muž;Richard;Pilát;Svépomoc 572;Bystrice nad Pernštejnem;Czech Republic;1939-11-17;74;O+;93.2;152;2013;Zpracovatelský průmysl;30917.83592017972
+171406;muž;Milan;Šup;Kovářská 1451;Sobechleby;Czech Republic;1974-05-20;38;O+;75.2;153;2012;Informační a komunikační činnosti;44754.52673249029
+929087;žena;Emilie;Mrázková;Bártova 639;Horní Studenec;Czech Republic;1986-08-05;32;A+;69.2;176;2018;Administrativní a podpůrné činnosti;20564.046951951008
+483133;žena;Alena;Horáková;V Trávníkách 1362;Olomucany;Czech Republic;2000-07-29;16;O+;53.1;171;2016;Doprava a skladování;32819.11032475285
+856430;muž;Miroslav;Jílek;Dvořákova 477;Písek 1;Czech Republic;1984-04-26;32;A+;115.3;162;2016;Zpracovatelský průmysl;15915.781519548944
+328922;muž;Petr;Hradil;Lidická 756;Veselícko u Lipníka nad Becvou;Czech Republic;1993-08-13;26;O+;101.6;159;2019;Informační a komunikační činnosti;89321.77241650474
+593690;žena;Blanka;Křivánková;Hálkova 1410;Úpice;Czech Republic;1940-10-06;73;B+;103.8;178;2013;Administrativní a podpůrné činnosti;14083.388466603228
+96695;žena;Hana;Gabrhelová;Mlýnské údolí 828;Krnov 1;Czech Republic;1993-04-12;23;B+;76.9;185;2016;Obchod, opravy motorových vozidel;32922.3852049672
+619556;muž;Lukáš;Nguyen;U divadla 1060;Dolní Kalná;Czech Republic;1990-03-16;23;A+;63.9;181;2013;Informační a komunikační činnosti;127166.0319227341
+905240;žena;Marie;Šlapáková;Sluneční 927;Cechtín;Czech Republic;1962-05-16;51;O+;56.1;175;2013;Zdravotní a sociální péče;40548.26614864807
+920893;žena;Marie;Houbová;Nezvalova 162;Strakonice 1;Czech Republic;1969-07-13;41;O+;70.3;157;2010;Zdravotní a sociální péče;27219.986898068153
+212168;muž;Radoslav;Řehák;Nové Město 744;Hluboká nad Vltavou;Czech Republic;1989-08-29;22;O+;89.7;152;2011;Profesní, vědecké a technické činnosti;43485.059202546385
+811333;muž;Karel;Hodan;Větrná 72;Primda;Czech Republic;1967-10-27;53;O+;67.5;172;2020;Stavebnictví;23242.817874559885
+918818;muž;Robert;Kapoun;Vrchlického 1709;Jince;Czech Republic;1939-06-05;72;O+;69.6;157;2011;Zpracovatelský průmysl;18409.649819917253
+493334;žena;Drahomíra;Svobodová;Jiráskova 1675;Plzen 12;Czech Republic;1968-06-24;46;B+;112.9;165;2014;Doprava a skladování;15676.656079265309
+882265;muž;Jiří;Merta;Příční 688;Hlinsko v Cechách 1;Czech Republic;1984-12-03;31;B+;67.7;179;2015;Stavebnictví;42841.003881874916
+762305;muž;Michal;Štěpánek;Tyršova 1454;Dolní Bousov;Czech Republic;1991-06-08;29;O+;98.3;184;2020;Zpracovatelský průmysl;35994.5320040294
+68870;žena;Zuzana;Jindráková;U divadla 1873;Teplice 1;Czech Republic;1988-11-22;29;A+;71.7;167;2017;Obchod, opravy motorových vozidel;36575.918466045805
+642781;muž;Lukáš;Rokos;Hradní 670;Rícany u Prahy;Czech Republic;1989-03-30;26;A+;81.2;163;2015;Obchod, opravy motorových vozidel;68839.33220142637
+629906;muž;Roman;Šebesta;Štefanikova 1190;Golcuv Jeníkov;Czech Republic;1971-06-16;40;AB+;65.9;160;2011;Zpracovatelský průmysl;49858.36304522904
+82268;muž;Petr;Juránek;Na Kopci 1419;Chyše;Czech Republic;1953-12-25;63;B+;97.0;161;2016;Ubytování, stravování a pohostinství;14812.022766158707
+777268;žena;Věra;Demeterová;Alšova 1596;Lanškroun;Czech Republic;1982-02-14;36;B+;82.7;164;2017;Veřejná správa a obrana, povinné sociální zabezpečení;54824.99283220888
+746583;muž;Vladimír;Příhoda;Mlýnské údolí 568;Nová Ves nad Nisou;Czech Republic;1943-02-27;73;AB+;84.0;173;2015;Profesní, vědecké a technické činnosti;14344.5121034705
+448566;žena;Kateřina;Jiráčková;Bartákova 645;Mostkovice;Czech Republic;1961-12-22;58;O+;71.0;170;2019;Administrativní a podpůrné činnosti;26747.675250296194
+939124;muž;Václav;Martinec;K Pazderně 1649;Starec;Czech Republic;1961-03-28;51;A-;87.4;152;2012;Obchod, opravy motorových vozidel;14005.634210913393
+434926;žena;Jiřina;Jindrová;Strmá 928;Frenštát pod Radhoštem;Czech Republic;1952-03-22;65;O-;70.3;170;2017;Obchod, opravy motorových vozidel;48571.616067298375
+90803;žena;Eliška;Zbořilová;Palackého 784;Slapy nad Vltavou;Czech Republic;1938-07-25;72;B+;83.5;171;2010;Činnosti v oblasti nemovitostí;25946.272555694963
+640579;muž;Adolf;Mašek;U Křížku 1143;Bílovice u Uherského Hradište;Czech Republic;1983-03-01;30;O+;65.3;162;2012;Zpracovatelský průmysl;21952.230161934658
+358183;žena;Tereza;Silovská;Masarykova 1414;Stražisko;Czech Republic;1989-11-13;24;B+;87.3;150;2013;Zpracovatelský průmysl;19558.61727573065
+41322;muž;Petr;Mann;U medvídků 1755;Loucovice;Czech Republic;1976-12-31;44;O+;105.0;173;2020;Vzdělávání;30314.139877255962
+260171;muž;Jiří;Švec;Strmá 1575;Košík;Czech Republic;1980-08-03;32;O+;112.5;156;2012;Obchod, opravy motorových vozidel;13778.636420799183
+108481;muž;Miroslav;Kouřil;Na Výsluní 196;Litovel;Czech Republic;1960-08-09;54;A+;70.7;157;2014;Zpracovatelský průmysl;31009.425800821096
+237233;žena;Vladimíra;Loskotová;Větrná 1963;Vojkovice u Kralup nad Vltavou;Czech Republic;1991-11-12;23;O+;101.9;159;2014;Zpracovatelský průmysl;53784.77637169239
+750910;muž;Vlastimil;Květoň;Teperova 1200;Radnice u Rokycan;Czech Republic;1983-09-02;27;A+;106.7;183;2010;Výroba a rozvod elektřiny, plynu, tepla;71415.48336835463
+777681;muž;Matěj;Novotný;Lomená 1823;Zdounky;Czech Republic;1967-06-25;46;B+;80.9;174;2013;Informační a komunikační činnosti;13978.157421310085
+45271;muž;Bohumil;Dolanský;Jiráskova 1851;Polná;Czech Republic;1987-02-14;25;AB+;77.9;165;2011;Obchod, opravy motorových vozidel;61391.43694422626
+485170;muž;Tomáš;Běhounek;Palackého 1658;Studená;Czech Republic;1985-02-17;31;O+;93.6;168;2015;Doprava a skladování;50435.36913616348
+570339;žena;Michaela;Krátká;Obránců míru 1588;Mrícná;Czech Republic;1972-11-16;38;O+;79.0;176;2010;Zpracovatelský průmysl;36874.41753068821
+805368;muž;Josef;Haas;Lomená 1431;Vysoké Veselí;Czech Republic;1974-09-30;41;A+;57.0;164;2015;Zpracovatelský průmysl;54440.47521089603
+465246;žena;Tetyana;Šimková;Na Kopečku 161;Opatovice nad Labem;Czech Republic;1994-04-14;26;A+;107.3;186;2020;Vzdělávání;19775.783106702384
+71739;žena;Jana;Pochobradská;U Křížku 456;Jistebník;Czech Republic;1993-01-24;26;A+;64.3;170;2018;Zpracovatelský průmysl;40400.8572617963
+511133;žena;Božena;Kašíková;Jana Šťastného 1519;Kdyne;Czech Republic;1986-10-01;34;A+;83.4;181;2020;Ostatní činnosti;16200
+893431;muž;Michal;Šejnoha;Stožická 496;Morkovice-Slížany;Czech Republic;1998-09-20;12;O-;92.2;165;2010;Zemědělství, lesnictví a rybářství;17919.504457356674
+807772;muž;Ladislav;Botek;Jiřího z Poděbrad 86;Strelice u Brna;Czech Republic;1998-03-17;15;B+;92.0;158;2013;Informační a komunikační činnosti;74081.94213157112
+451816;muž;David;Soukup;Komenského 226;Semily;Czech Republic;1939-07-14;81;O-;103.1;167;2020;Doprava a skladování;16200
+377958;muž;Šimon;Vlček;Prokopská 899;Všetaty;Czech Republic;1942-06-16;74;B+;99.5;156;2016;Stavebnictví;32600.28849805066
+277977;muž;Lukáš;﻿Svoboda;Na Průhonu 1596;Šlapanice;Czech Republic;1995-03-04;25;B+;76.0;159;2019;Informační a komunikační činnosti;89719.413985143
+725095;muž;Vladimír;Bartoníček;Sokolská 1476;Jablunkov;Czech Republic;1948-02-21;73;A+;70.1;161;2020;Zpracovatelský průmysl;26769.84892159456
+505462;žena;Jindřiška;Trejbalová;Palackého 1087;Kolinec;Czech Republic;1937-08-17;82;O+;86.9;184;2019;Zpracovatelský průmysl;37201.587168682454
+582100;žena;Anna;Nováková;Absolonova 520;Lázne Bohdanec;Czech Republic;1946-07-04;67;A+;69.4;156;2013;Zemědělství, lesnictví a rybářství;14064.772521954283
+892788;muž;Vlastislav;Tvrdý;Československé legií 705;Bystrice pod Hostýnem 1;Czech Republic;1939-11-12;81;A+;73.1;175;2020;Zpracovatelský průmysl;32351.361328244162
+171586;muž;Ivan;Jelínek;Svépomoc 796;Brno 14;Czech Republic;1972-10-04;39;O-;103.5;187;2011;Zpracovatelský průmysl;31254.008669741932
+746557;muž;Jaroslav;Kuta;Českého odboje 196;Krnov 1;Czech Republic;1968-05-29;43;O+;76.3;170;2011;Zdravotní a sociální péče;35539.26743477479
+829222;žena;Marie;Kopecká;Mlýnské údolí 1630;Svitavy 2;Czech Republic;2002-05-26;15;O+;95.4;157;2017;Obchod, opravy motorových vozidel;22585.36849488333
+552320;muž;Michal;Mojžíš;Klímova 1927;Cáslav;Czech Republic;1954-10-29;59;AB+;110.0;179;2013;Zpracovatelský průmysl;61554.77351189032
+795307;žena;Sára;Ducháčová;Dukelská 1768;Budišov u Trebíce;Czech Republic;1952-12-11;64;B+;52.4;189;2016;Zdravotní a sociální péče;56491.23455655563
+67783;žena;Věra;Prokopová;Na Výsluní 1033;Žehušice;Czech Republic;1970-04-14;40;O+;112.7;167;2010;Zdravotní a sociální péče;33290.47122637714
+662245;muž;Petr;Kisza;Tylova 1705;Jablonec nad Nisou 2;Czech Republic;1984-03-21;33;B-;80.8;161;2017;Obchod, opravy motorových vozidel;28718.449210148778
+469941;žena;Libuše;Boukalová;Havlíčkova 806;Pacov;Czech Republic;1979-09-12;36;B+;63.4;165;2015;Obchod, opravy motorových vozidel;25560.4425396501
+768417;žena;Kateřina;Mikolášová;Mlýnská 1614;Jedovnice;Czech Republic;1973-06-02;37;O+;109.9;175;2010;Zdravotní a sociální péče;16409.205643568934
+560076;žena;Marie;Horníčková;Riegrova 1411;Ústí nad Labem 2;Czech Republic;1969-12-10;47;B+;99.7;157;2016;Obchod, opravy motorových vozidel;46987.35191862842
+756881;muž;Václav;﻿Novotný;Velký průhon 651;Ivancice;Czech Republic;1945-02-23;76;O+;66.3;162;2020;Profesní, vědecké a technické činnosti;28658.160151133983
+771051;muž;Petr;Hrabec;Dobrovského 1052;Teplice 1;Czech Republic;1998-02-19;18;A+;88.7;181;2015;Činnosti v oblasti nemovitostí;26046.118606383432
+102835;muž;Stanislav;Petráček;Dvořákova 582;Cernošice;Czech Republic;1959-07-26;51;O+;68.3;155;2010;Profesní, vědecké a technické činnosti;64331.64347642642
+394828;muž;Miloslav;Kukla;Vrchlického 1935;Mratín;Czech Republic;1982-09-26;28;O+;62.9;187;2010;Zpracovatelský průmysl;50976.92293080364
+478846;žena;Zlata;Václavíková;U divadla 1116;Unhošt;Czech Republic;1973-07-13;44;O+;99.6;170;2017;Stavebnictví;14631.932670915989
+931458;muž;David;Horníček;Dobrovského 873;Temice u Hodonína;Czech Republic;1985-11-15;29;A+;60.0;172;2014;Informační a komunikační činnosti;56228.272633566536
+549047;žena;Drahomíra;Horáková;Třebčická 1592;Stará Paka;Czech Republic;1981-09-27;32;B+;78.9;177;2013;Vzdělávání;29405.036137272396
+850156;muž;Lukáš;Matuška;Petrželka 341;Hodonín 1;Czech Republic;1941-11-29;79;O+;106.1;183;2020;Zpracovatelský průmysl;62271.4115300724
+7067;žena;Helena;Červeňáková;Na Výsluní 758;Bílovice u Uherského Hradište;Czech Republic;1967-08-18;52;O+;82.5;167;2019;Zpracovatelský průmysl;15831.68708988815
+852212;žena;Iveta;Pospíšilová;Alšova 252;Ceské Budejovice 10;Czech Republic;1982-08-23;31;B+;91.1;154;2013;Kulturní, zábavní a rekreační činnosti;39295.649449352655
+171354;muž;Gustav;Boček;Českého odboje 1868;Trnov u Dobrušky;Czech Republic;1971-08-06;41;O-;101.9;153;2012;Peněžnictví a pojišťovnictví;14225.268476965133
+701528;muž;Andrej;Schön;Mírová 1698;Praha 58;Czech Republic;1938-12-24;79;O+;92.7;154;2017;Obchod, opravy motorových vozidel;34779.69483811262
+793352;žena;Alena;Fišerová;Fügnerova 1960;Ústí nad Orlicí 6;Czech Republic;1957-11-20;55;O+;61.4;172;2012;Zpracovatelský průmysl;13367.583292933823
+780388;muž;Libor;Lacko;Jiráskova 434;Morašice u Litomyšle;Czech Republic;1986-12-08;25;O+;65.8;159;2011;Veřejná správa a obrana, povinné sociální zabezpečení;39550.56172200473
+573602;žena;Helena;Kopecká;U Křížku 782;Pecky;Czech Republic;1938-04-14;73;A-;68.4;161;2011;Doprava a skladování;12982.82225303587
+943441;muž;Mikuláš;Ryba;Bezručova 454;Ceský Krumlov 1;Czech Republic;1968-04-03;51;A+;65.6;168;2019;Stavebnictví;15680.654767209717
+923867;žena;Klára;Strnadová;Mlýnská 1810;Bylany;Czech Republic;1938-09-06;72;B+;73.2;173;2010;Ubytování, stravování a pohostinství;13265.26204723216
+571601;muž;Václav;Horák;Jiřího z Poděbrad 1643;Rybí;Czech Republic;1959-11-09;58;O+;64.4;184;2017;Činnosti v oblasti nemovitostí;26149.353286612062
+629295;žena;Barbora;Macková;Svépomoc 60;Domažlice 1;Czech Republic;1951-05-08;62;A+;73.5;170;2013;Zpracovatelský průmysl;24086.87825970847
+508512;žena;Květa;Pospíšilová;Klímova 1295;Morkovice-Slížany;Czech Republic;1971-06-19;43;A+;67.1;166;2014;Zpracovatelský průmysl;37179.068235151404
+198855;muž;Lukáš;Čeřovský;Bavorovská 1701;Zruc nad Sázavou 1;Czech Republic;1998-02-17;13;AB+;55.7;153;2010;Zdravotní a sociální péče;49164.878985759125
+504313;žena;Eva;Ritterová;Horní 1479;Pacov;Czech Republic;1963-07-25;50;O+;92.5;174;2013;Vzdělávání;33529.88817709278
+450060;žena;Sylvia;Sedláková;Nezvalova 1224;Stráž nad Nežárkou;Czech Republic;1987-01-10;25;B+;96.9;185;2011;Veřejná správa a obrana, povinné sociální zabezpečení;34455.546430872164
+45985;žena;Mária;Michlová;Americká 1901;Krnsko;Czech Republic;1997-12-29;17;A+;74.3;178;2014;Obchod, opravy motorových vozidel;14699.989206908325
+633410;žena;Kateřina;Volná;Truhlářská 1869;Sezimovo Ústí 1;Czech Republic;1949-10-06;63;A+;45.1;166;2012;Vzdělávání;41243.27265256286
+365046;muž;Jiří;Pluhař;Matiegkova 1752;Cechtice;Czech Republic;1974-05-11;46;B+;98.4;172;2020;Veřejná správa a obrana, povinné sociální zabezpečení;40871.3062095412
+964738;muž;Petr;﻿Horák;Luční 1727;Stríbro;Czech Republic;1944-03-14;74;A+;104.9;172;2018;Veřejná správa a obrana, povinné sociální zabezpečení;43086.56247188317
+927665;žena;Emília;Petrášová;Havlíčkova 261;Cholina;Czech Republic;1937-06-11;76;O+;78.2;160;2013;Obchod, opravy motorových vozidel;48691.71692020489
+277316;žena;Milena;Teichmanová;Strojírenská 1041;Vítejeves;Czech Republic;1992-12-26;20;O+;73.5;165;2012;Doprava a skladování;19765.403656429422
+841641;žena;Marie;Lhotská;Na Sadech 330;Litomerice 1;Czech Republic;1938-12-15;79;B+;59.1;171;2017;Zdravotní a sociální péče;22786.24689882861
+430171;žena;Dagmar;Mužíková;Svépomoc 1971;Horice v Podkrkonoší;Czech Republic;2002-12-31;14;A+;98.5;165;2016;Obchod, opravy motorových vozidel;58912.941645300685
+898932;žena;Eliška;Pavelková;Příkopy 264;Bruntál 1;Czech Republic;1985-10-24;32;A+;88.5;187;2017;Obchod, opravy motorových vozidel;33913.012139284976
+293185;žena;Ludmila;Opletalová;Partyzánská 191;Križany;Czech Republic;1949-10-29;66;O+;81.5;157;2015;Obchod, opravy motorových vozidel;37834.48072654695
+589085;muž;Daniel;Coufal;Jabloňová 246;Šárovcova Lhota;Czech Republic;1949-01-07;69;B+;54.9;173;2017;Zpracovatelský průmysl;33939.367562996915
+321438;žena;Anna;Fuchsová;Jiřího z Poděbrad 1181;Zvole u Prahy;Czech Republic;1982-03-18;35;B+;70.3;166;2017;Obchod, opravy motorových vozidel;15115.946004791604
+829424;žena;Jana;Zavadilová;Erbenova 1696;Hrensko;Czech Republic;1940-08-17;76;A+;109.1;179;2016;Doprava a skladování;14649.920223766372
+401148;muž;Karel;Neubauer;Sídliště Za Chlumem 1293;Cechtín;Czech Republic;1997-05-24;15;A+;55.1;176;2012;Obchod, opravy motorových vozidel;35458.562864217856
+975377;muž;Michal;Vít;Masarykova 1676;Radostín nad Oslavou;Czech Republic;1991-05-07;25;A+;89.4;158;2016;Zpracovatelský průmysl;54605.17414768757
+574780;muž;Jaroslav;Binder;Dobrovského 1951;Príbor;Czech Republic;1974-03-11;37;O+;67.5;186;2011;Zpracovatelský průmysl;26792.799222460177
+838267;muž;Tomáš;Gregor;Tyršova 1771;Stežery;Czech Republic;1965-12-10;51;A+;78.1;180;2016;Zpracovatelský průmysl;14914.445445438147
+224650;muž;Jiří;Pokorný;Sokolská 856;Horšovský Týn;Czech Republic;1937-05-03;75;A+;57.1;171;2012;Zpracovatelský průmysl;64809.54256153787
+358494;žena;Hana;Hrdličková;U Křížku 1170;Rybitví;Czech Republic;1987-07-28;31;B+;98.8;155;2018;Zpracovatelský průmysl;15559.16443843938
+36801;žena;Nina;Kalejová;Americká 1017;Oborište;Czech Republic;1975-08-03;37;B+;105.6;173;2012;Vzdělávání;21954.19883717132
+523731;žena;Silvie;Češková;Strmá 393;Frýdlant v Cechách;Czech Republic;1974-03-29;37;O+;112.4;159;2011;Zpracovatelský průmysl;28324.86563869975
+488539;žena;Lucie;Smejkalová;Na Výsluní 1374;Velešín;Czech Republic;1975-08-01;42;A+;46.9;161;2017;Vzdělávání;21029.25137681782
+59836;muž;Jiří;Petružálek;Luční 804;Tištín;Czech Republic;1952-08-14;63;A+;88.8;171;2015;Zpracovatelský průmysl;27361.1462439495
+659670;muž;Petr;Kačer;Pod Malsičkou 449;Humpolec;Czech Republic;1983-01-22;30;A+;95.7;182;2012;Doprava a skladování;14114.755566514326
+23334;žena;Helena;Jandová;Dělnická 1303;Benešov u Semil;Czech Republic;1994-02-08;22;O+;102.2;171;2015;Zdravotní a sociální péče;31075.96902186213
+821766;žena;Jana;Dudová;Ehrmannova 1802;Rudíkov;Czech Republic;1964-06-15;46;A+;70.8;163;2010;Vzdělávání;34025.9649092091
+663559;muž;Tomáš;Čapek;Horní 1660;Cáslav;Czech Republic;2000-06-29;15;O+;91.4;173;2015;Veřejná správa a obrana, povinné sociální zabezpečení;15711.44730092049
+617704;muž;Milan;Zloch;Osvobození 1422;Horní Branná;Czech Republic;1971-07-26;42;O+;78.1;164;2013;Doprava a skladování;21220.299132549942
+233209;muž;Jan;Valeš;Poštovní 568;Knežmost;Czech Republic;1963-01-24;53;O+;67.9;170;2015;Informační a komunikační činnosti;46316.85182454836
+841180;muž;Petr;Uher;Hrubínova 212;Stríbro;Czech Republic;1941-09-23;71;B-;87.3;154;2012;Zpracovatelský průmysl;37381.7864331102
+416342;žena;Ivana;Adamcová;Spojovací 1824;Mratín;Czech Republic;1997-07-18;15;B+;101.6;161;2012;Administrativní a podpůrné činnosti;43424.520330198706
+156916;muž;Libor;Kalousek;Absolonova 1004;Stod;Czech Republic;1993-10-18;18;O+;57.1;155;2011;Informační a komunikační činnosti;47158.831331455556
+401103;žena;Ludmila;Hofmanová;Hájecká 570;Stríbro;Czech Republic;1947-07-28;72;AB-;99.6;172;2019;Obchod, opravy motorových vozidel;37176.95079604386
+661487;žena;Tereza;Polášková;Na Sadech 773;Kamenice;Czech Republic;1953-11-04;60;O+;60.1;176;2013;Vzdělávání;36324.02696275037
+599260;žena;Veronika;Nováková;Tylova 569;Hnojník;Czech Republic;1985-07-18;29;A+;69.1;167;2014;Zpracovatelský průmysl;14583.013497947422
+717804;žena;Jana;Kasalová;Louny 1865;Horšice;Czech Republic;1943-12-12;71;A+;71.2;183;2014;Zdravotní a sociální péče;21226.824885538615
+995170;žena;Ludmila;Zedková;Velký průhon 1237;Stod;Czech Republic;1995-06-22;16;A+;53.1;172;2011;Zpracovatelský průmysl;13343.107904481225
+794073;žena;Zdeňka;Pospíšilová;Generála Jaroše 1348;Chrastava;Czech Republic;1998-01-24;17;O-;71.4;166;2014;Administrativní a podpůrné činnosti;21498.332322018137
+787717;muž;Dominik;Blažek;Vrchlického 1377;Kdyne;Czech Republic;1999-04-03;12;B+;92.3;165;2011;Zdravotní a sociální péče;37989.83305454617
+959955;muž;Jaromír;Piskoř;Družstevní 1027;Topolná;Czech Republic;1961-05-11;55;B+;76.7;156;2016;Obchod, opravy motorových vozidel;40641.94839128493
+698472;muž;Jaroslav;Novák;Matiegkova 306;Cerná Hora;Czech Republic;1957-07-18;54;B+;112.0;183;2011;Administrativní a podpůrné činnosti;33158.60667858579
+545084;muž;Jiří;Králík;Mlýnská 1194;Kostomlaty nad Labem;Czech Republic;1975-01-03;42;O+;52.7;172;2016;Zpracovatelský průmysl;18931.77939279391
+517323;muž;Tomáš;Vokál;Palackého 43;Kardašova Recice;Czech Republic;1959-07-22;52;O+;99.3;160;2011;Doprava a skladování;19180.0446448535
+431058;žena;Marie;Krchová;Hrubínova 535;Blatná;Czech Republic;1988-01-13;29;B+;106.4;169;2016;Zpracovatelský průmysl;15071.787307845043
+351555;muž;Ladislav;Svoboda;Nová 1455;Chotoviny;Czech Republic;1959-05-12;58;B+;69.8;170;2017;Zpracovatelský průmysl;15230.845681008852
+463669;muž;Adam;Ondruch;Horní 921;Písek 1;Czech Republic;1963-05-23;56;O+;75.1;174;2019;Informační a komunikační činnosti;81835.98504298905
+703755;muž;Petr;Halouzka;Barákova 1271;Kamýk nad Vltavou;Czech Republic;1958-01-19;53;O+;66.9;171;2010;Zdravotní a sociální péče;51951.63229345181
+729402;žena;Jarmila;Lukavská;Americká 1170;Prelouc;Czech Republic;1992-02-28;26;O+;65.5;173;2017;Profesní, vědecké a technické činnosti;15523.62464767138
+719645;žena;Lenka;Semanová;Pivovarská 951;Cervená Voda;Czech Republic;1989-08-27;22;A+;91.3;167;2011;Zpracovatelský průmysl;33741.227549015435
+426786;muž;Petr;Jindra;Za Školou 1887;Železný Brod;Czech Republic;1976-02-23;45;B+;99.5;172;2020;Zpracovatelský průmysl;79368.84737173386
+180158;muž;Antonín;Hrdina;Sluneční 109;Bernartice u Milevska;Czech Republic;1979-01-11;40;O+;55.6;171;2018;Zpracovatelský průmysl;32111.754413909202
+369018;muž;Filip;Daniel;Komenského 326;Štramberk;Czech Republic;1996-01-11;16;O+;77.8;182;2011;Veřejná správa a obrana, povinné sociální zabezpečení;41259.96830593693
+500311;žena;Růžena;Ondráčková;Hájecká 278;Prlov;Czech Republic;1936-08-28;75;O+;91.6;174;2011;Zpracovatelský průmysl;25234.93937997266
+725017;muž;Miloslav;Korecký;Klimenta Čermáka 1530;Rožmitál pod Tremšínem;Czech Republic;1993-08-28;22;O+;68.4;165;2015;Zpracovatelský průmysl;54885.483683394
+167111;žena;Sabina;Homolová;Sokolská 1248;Svitavy 2;Czech Republic;1936-10-21;79;B+;75.3;166;2015;Ubytování, stravování a pohostinství;14810.947863979114
+342903;žena;Věra;Pavlová;Pardubská 1276;Kvetná;Czech Republic;1995-09-12;22;A+;49.8;179;2017;Ostatní činnosti;17632.43246358997
+215726;žena;Irena;Müllerová;Zahradní 1489;Vyskytná nad Jihlavou;Czech Republic;2002-10-17;17;O+;87.8;155;2019;Zpracovatelský průmysl;26400.01427973534
+828303;muž;Pavel;Vácha;Na Sadech 192;Kurim;Czech Republic;1969-06-05;43;A-;109.9;171;2012;Zemědělství, lesnictví a rybářství;29860.021581781763
+273034;muž;Zdeněk;﻿Veselý;Bártova 1048;Rybitví;Czech Republic;1956-03-20;55;O+;96.5;166;2011;Obchod, opravy motorových vozidel;41941.55164335371
+402477;muž;Robert;Zatloukal;Vrchlického 1298;Sušice 1;Czech Republic;1960-09-06;50;O+;76.6;167;2010;Doprava a skladování;19005.997527720443
+718257;žena;Jana;Kaňová;Havlíčkova 188;Odry;Czech Republic;1991-01-27;28;B+;80.0;156;2018;Ubytování, stravování a pohostinství;22104.636146093697
+639596;muž;Miroslav;Mokrý;Alšova 1294;Divišov;Czech Republic;1980-07-16;39;A+;103.2;166;2019;Zpracovatelský průmysl;48737.32379600781

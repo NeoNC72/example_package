@@ -1,25 +1,25 @@
 from dataclasses import dataclass
-from . import counts
+from . import salstat
 import argparse
 
 
 @dataclass
 class ProgArguments():
-    sum: list[int]
-    add_two: int
+    file: str
+    year: list[int]
 
 
 def parse_args() -> ProgArguments:
     parser = argparse.ArgumentParser(
-        prog='Example Package',
-        description='Package description... can be loaded from README.md')
+        prog='salstat',
+        description='Počítání rozdílů průměrné mzdy za 2 roky')
 
-    parser.add_argument('--sum', nargs="+", help='sum all integers', type=int)
-    parser.add_argument('--add_two', nargs="?", help='add two to a number', type=int)
+    parser.add_argument('--file', nargs="?", help='soubor', type=str)
+    parser.add_argument('--year', nargs=2, help='roky', type=int)
 
     args = parser.parse_args()
     
-    if not args.sum and not args.add_two:
+    if not args.file and not args.year:
         parser.print_help()
         exit(1)
 
@@ -28,7 +28,13 @@ def parse_args() -> ProgArguments:
 
 def main():
     args = parse_args()
-    if args.sum is not None:
-        print(counts.sum_all(args.sum))
-    if args.add_two is not None:
-        print(counts.add_two(args.add_two))
+    if args.year[0] == args.year[1]:
+        print("Roky musí být různé")
+        exit(1)
+
+    if args.year[0] > args.year[1]:
+        print(f"Roky se otočí {args.year[1]} -> {args.year[0]}")
+        args.year[0], args.year[1] = args.year[1], args.year[0]
+    year1 = salstat.count_average_salary(salstat.load_data_file(args.file, args.year[0]))
+    year2 = salstat.count_average_salary(salstat.load_data_file(args.file, args.year[1]))
+    print(f"Prumerna mzda se pro rok {args.year[0]} a {args.year[1]} změnila z {year1} na {year2} to je o {year2-year1} Kč")
