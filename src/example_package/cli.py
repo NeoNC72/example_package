@@ -36,5 +36,5 @@ def main():
         print(f"Roky se otočí {args.year[1]} -> {args.year[0]}")
         args.year[0], args.year[1] = args.year[1], args.year[0]
     year1 = salstat.count_average_salary(salstat.load_data_file(args.file, args.year[0]))
-    year2 = salstat.count_average_salary(salstat.load_data_file(args.file, args.year[1]))
+    year2 = salstat.count_average_salary(salstat.load_data_file(args.file, args.year[1])) + 10
     print(f"Prumerna mzda se pro rok {args.year[0]} a {args.year[1]} změnila z {year1} na {year2} to je o {year2-year1} Kč")
